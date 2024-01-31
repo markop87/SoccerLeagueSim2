@@ -1,0 +1,2355 @@
+0;empty;0;0;0;0
+1;Afghanistan;1;5;0;33
+2;Albania;1;1;0;58
+3;Algeria;1;4;0;75
+4;American Samoa;1;6;0;5
+5;Andorra;1;1;0;30
+6;Angola;1;4;0;60
+7;Anguilla;1;3;0;10
+8;Antigua & Barbuda;1;3;0;25
+9;Argentina;1;2;0;95
+10;Armenia;1;1;0;52
+11;Aruba;1;3;0;12
+12;Australia;1;5;0;77
+13;Austria;1;1;0;78
+14;Azerbaijan;1;1;0;48
+15;Bahamas;1;3;0;13
+16;Bahrain;1;5;0;67
+17;Bangladesh;1;5;0;20
+18;Barbados;1;3;0;22
+19;Belarus;1;1;0;53
+20;Belgium;1;1;0;97
+21;Belize;1;3;0;35
+22;Benin;1;4;0;55
+23;Bermuda;1;3;0;30
+24;Bhutan;1;5;0;27
+25;Bolivia;1;2;0;67
+26;Bonaire;1;3;0;25
+27;Bosnia-Herzegovina;1;1;0;75
+28;Botswana;1;4;0;47
+29;Brazil;1;2;0;97
+30;British Virgin Isl.;1;3;0;3
+31;Brunei;1;5;0;15
+32;Bulgaria;1;1;0;55
+33;Burkina Faso;1;4;0;72
+34;Burundi;1;4;0;55
+35;Cambodia;1;5;0;30
+36;Cameroon;1;4;0;80
+37;Canada;1;3;0;70
+38;Cape Verde;1;4;0;77
+39;Cayman Islands;1;3;0;17
+40;Cen. African Rep.;1;4;0;37
+41;Chad;1;4;0;28
+42;Chile;1;2;0;85
+43;China PR;1;5;0;63
+44;Chinese Taipei;1;5;0;47
+45;Colombia;1;2;0;87
+46;Comoros;1;4;0;43
+47;Congo;1;4;0;52
+48;Congo DR;1;4;0;65
+49;Cook Islands;1;6;0;15
+50;Costa Rica;1;3;0;68
+51;Côte d'Ivoire;1;4;0;68
+52;Croatia;1;1;0;88
+53;Cuba;1;3;0;57
+54;Curaçao;1;3;0;58
+55;Cyprus;1;1;0;60
+56;Czech Republic;1;1;0;80
+57;Denmark;1;1;0;90
+58;Djibouti;1;4;0;20
+59;Dominica;1;3;0;18
+60;Dominican Republic;1;3;0;22
+61;Ecuador;1;2;0;83
+62;Egypt;1;4;0;80
+63;El Salvador;1;3;0;62
+64;England;1;1;0;93
+65;Equatorial Guinea;1;4;0;62
+66;Eritrea;1;4;0;15
+67;Estonia;1;1;0;50
+68;Eswatini;1;4;0;37
+69;Ethiopia;1;4;0;38
+70;Faroe Islands;1;1;0;42
+71;Fiji;1;6;0;18
+72;Finland;1;1;0;72
+73;France;1;1;0;98
+74;French Guiana;1;3;0;62
+75;Gabon;1;4;0;67
+76;Gambia;1;4;0;58
+77;Georgia;1;1;0;60
+78;Germany;1;1;0;98
+79;Ghana;1;4;0;82
+80;Gibraltar;1;1;0;23
+81;Greece;1;1;0;63
+82;Grenada;1;3;0;40
+83;Guadeloupe;1;3;0;53
+84;Guam;1;5;0;12
+85;Guatemala;1;3;0;48
+86;Guinea;1;4;0;55
+87;Guinea-Bissau;1;4;0;43
+88;Guyana;1;3;0;33
+89;Haiti;1;3;0;63
+90;Honduras;1;3;0;67
+91;Hong Kong;1;5;0;35
+92;Hungary;1;1;0;80
+93;Iceland;1;1;0;73
+94;India;1;5;0;32
+95;Indonesia;1;5;0;28
+96;Iran;1;5;0;78
+97;Iraq;1;5;0;67
+98;Israel;1;1;0;68
+99;Italy;1;1;0;95
+100;Jamaica;1;3;0;68
+101;Japan;1;5;0;82
+102;Jordan;1;5;0;63
+103;Kazakhstan;1;1;0;47
+104;Kenya;1;4;0;50
+105;Kiribati;1;6;0;5
+106;Korea DPR;1;5;0;57
+107;Korea Republic;1;5;0;78
+108;Kosovo;1;1;0;58
+109;Kuwait;1;5;0;58
+110;Kyrgyzstan;1;5;0;47
+111;Laos;1;5;0;35
+112;Latvia;1;1;0;42
+113;Lebanon;1;5;0;48
+114;Lesotho;1;4;0;30
+115;Liberia;1;4;0;35
+116;Libya;1;4;0;40
+117;Liechtenstein;1;1;0;33
+118;Lithuania;1;1;0;47
+119;Luxembourg;1;1;0;52
+120;Macau;1;5;0;18
+121;Madagascar;1;4;0;35
+122;Malawi;1;4;0;32
+123;Malaysia;1;5;0;30
+124;Maldives;1;5;0;27
+125;Mali;1;4;0;70
+126;Malta;1;1;0;28
+127;Martinique;1;3;0;17
+128;Mauritania;1;4;0;48
+129;Mauritius;1;4;0;33
+130;Mexico;1;3;0;85
+131;Moldova;1;1;0;47
+132;Mongolia;1;5;0;28
+133;Montenegro;1;1;0;53
+134;Montserrat;1;3;0;23
+135;Morocco;1;4;0;78
+136;Mozambique;1;4;0;55
+137;Myanmar;1;5;0;32
+138;Namibia;1;4;0;45
+139;Nepal;1;5;0;27
+140;Netherlands;1;1;0;93
+141;New Caledonia;1;6;0;23
+142;New Zealand;1;6;0;57
+143;Nicaragua;1;3;0;52
+144;Niger;1;4;0;50
+145;Nigeria;1;4;0;77
+146;North Macedonia;1;1;0;67
+147;Northern Ireland;1;1;0;58
+148;Northern Mariana;1;5;0;12
+149;Norway;1;1;0;72
+150;Oman;1;5;0;65
+151;Pakistan;1;5;0;23
+152;Palestine;1;5;0;43
+153;Panama;1;3;0;62
+154;Papua New Guinea;1;6;0;32
+155;Paraguay;1;2;0;80
+156;Peru;1;2;0;85
+157;Philippines;1;5;0;38
+158;Poland;1;1;0;85
+159;Portugal;1;1;0;92
+160;Puerto Rico;1;3;0;22
+161;Qatar;1;5;0;68
+162;Rep. of Ireland;1;1;0;65
+163;Réunion;1;4;0;22
+164;Romania;1;1;0;68
+165;Russia;1;1;0;77
+166;Rwanda;1;4;0;48
+167;Saint Lucia;1;3;0;28
+168;Saint Martin;1;3;0;25
+169;Samoa;1;6;0;23
+170;San Marino;1;1;0;28
+171;Sao Tome & Principe;1;4;0;28
+172;Saudi Arabia;1;5;0;75
+173;Scotland;1;1;0;77
+174;Senegal;1;4;0;82
+175;Serbia;1;1;0;83
+176;Seychelles;1;4;0;25
+177;Sierra Leone;1;4;0;53
+178;Singapore;1;5;0;47
+179;Sint Maarten;1;3;0;13
+180;Slovakia;1;1;0;70
+181;Slovenia;1;1;0;68
+182;Solomon Islands;1;6;0;32
+183;Somalia;1;4;0;18
+184;South Africa;1;4;0;65
+185;South Sudan;1;4;0;52
+186;Spain;1;1;0;97
+187;Sri Lanka;1;5;0;15
+188;St Kitts and Nevis;1;3;0;35
+189;St Vincent & Gren.;1;3;0;27
+190;Sudan;1;4;0;53
+191;Suriname;1;3;0;45
+192;Sweden;1;1;0;78
+193;Switzerland;1;1;0;88
+194;Syria;1;5;0;68
+195;Tahiti;1;6;0;23
+196;Tajikistan;1;5;0;52
+197;Tanzania;1;4;0;50
+198;Thailand;1;5;0;53
+199;Timor-Leste;1;5;0;17
+200;Togo;1;4;0;55
+201;Tonga;1;6;0;13
+202;Trinidad & Tobago;1;3;0;60
+203;Tunisia;1;4;0;77
+204;Turkey;1;1;0;75
+205;Turkmenistan;1;5;0;58
+206;Turks and Caicos;1;3;0;10
+207;Tuvalu;1;6;0;8
+208;Uganda;1;4;0;63
+209;Ukraine;1;1;0;85
+210;United States;1;3;0;80
+211;Uruguay;1;2;0;90
+212;US Virgin Islands;1;3;0;7
+213;Utd Arab Emirates;1;5;0;65
+214;Uzbekistan;1;5;0;73
+215;Vanuatu;1;6;0;17
+216;Venezuela;1;2;0;70
+217;Vietnam;1;5;0;65
+218;Wales;1;1;0;82
+219;Yemen;1;5;0;35
+220;Zambia;1;4;0;67
+221;Zanzibar;1;4;0;50
+222;Zimbabwe;1;4;0;60
+223;Bylis;2;2;1;43
+224;Egnatia;2;2;1;42
+225;Erzeni;2;2;1;43
+226;Kastrioti;2;2;1;40
+227;Kukesi;2;2;1;40
+228;Laci;2;2;1;38
+229;Partizani;2;2;1;47
+230;Teuta;2;2;1;38
+231;Tirana;2;2;1;45
+232;Vilaznia;2;2;1;42
+233;Atletic Escaldes;2;5;2;13
+234;FC Santa Coloma;2;5;2;15
+235;Inter Escaldes;2;5;2;12
+236;Ordino;2;5;2;10
+237;Penya;2;5;2;8
+238;Sant Julia;2;5;2;12
+239;UE Engordany;2;5;2;10
+240;UE Santa Coloma;2;5;2;13
+241;Alashkert;2;10;3;40
+242;Ararat;2;10;3;37
+243;Ararat-Armenia;2;10;3;38
+244;BKMA;2;10;3;33
+245;Lernayin Artsakh;2;10;3;35
+246;Noah;2;10;3;32
+247;Pyunik;2;10;3;43
+248;Shirak;2;10;3;33
+249;Urartu;2;10;3;40
+250;Van;2;10;3;37
+251;A. Klagenfurt;2;13;4;80
+252;A. Lustenau;2;13;4;77
+253;Altach;2;13;4;75
+254;Austria Vienna;2;13;4;78
+255;Hartberg;2;13;4;75
+256;LASK;2;13;4;80
+257;Rapid Vienna;2;13;4;82
+258;Ried;2;13;4;77
+259;Salzburg;2;13;4;85
+260;Sturm Graz;2;13;4;83
+261;Tirol;2;13;4;78
+262;Wolfsberger;2;13;4;78
+263;Admira;2;13;5;70
+264;Amstetten;2;13;5;72
+265;Austria II;2;13;5;65
+266;BW Linz;2;13;5;70
+267;Dornbirn;2;13;5;67
+268;First Vienna;2;13;5;73
+269;Floridsdorfer;2;13;5;75
+270;Grazer;2;13;5;67
+271;Horn;2;13;5;75
+272;Kapfenberg;2;13;5;62
+273;Lafnitz;2;13;5;68
+274;Liefering;2;13;5;63
+275;Rapid Am;2;13;5;63
+276;St. Polten;2;13;5;72
+277;Sturm Graz Am;2;13;5;67
+278;Vorwarts Steyr;2;13;5;62
+279;Gabala;2;14;6;63
+280;Kapaz;2;14;6;60
+281;Nefci Baku;2;14;6;70
+282;Qarabag;2;14;6;80
+283;Sabah Baku;2;14;6;67
+284;Sabail;2;14;6;65
+285;Shamakhi;2;14;6;58
+286;Sumqayit;2;14;6;60
+287;Turan;2;14;6;62
+288;Zira;2;14;6;67
+289;Arsenal Dzyarzhynsk;2;19;7;63
+290;BATE;2;19;7;77
+291;Belshina;2;19;7;67
+292;Din. Minsk;2;19;7;72
+293;Dnepr Mogilev;2;19;7;62
+294;Dynamo Brest;2;19;7;65
+295;Energetik-BGU;2;19;7;73
+296;FC Gomel;2;19;7;70
+297;FC Minsk;2;19;7;68
+298;Isloch;2;19;7;72
+299;Neman;2;19;7;68
+300;Shakhtyor Soligorsk;2;19;7;73
+301;Slavia Mozyr;2;19;7;67
+302;Slutsk;2;19;7;65
+303;Vitebsk;2;19;7;63
+304;Zhodino;2;19;7;70
+305;Anderlecht;2;20;8;87
+306;Antwerp;2;20;8;85
+307;Cercle Brugge;2;20;8;78
+308;Charleroi;2;20;8;82
+309;Club Brugge;2;20;8;88
+310;Eupen;2;20;8;77
+311;Genk;2;20;8;85
+312;Gent;2;20;8;87
+313;Kortijk;2;20;8;77
+314;Leuven;2;20;8;83
+315;Mechelen;2;20;8;80
+316;Oostende;2;20;8;78
+317;Royale Union SG;2;20;8;87
+318;Seraing;2;20;8;80
+319;St. Truiden;2;20;8;82
+320;Standard Liege;2;20;8;85
+321;Waregem;2;20;8;75
+322;Westerlo;2;20;8;83
+323;Anderlecht U23;2;20;9;73
+324;Beerschot;2;20;9;72
+325;Beveren;2;20;9;75
+326;Club Brugge U23;2;20;9;72
+327;Deinze;2;20;9;68
+328;Dender;2;20;9;67
+329;Genk U23;2;20;9;67
+330;Lierse;2;20;9;75
+331;Lommel;2;20;9;70
+332;RWDM 47;2;20;9;73
+333;St. Liege U23;2;20;9;70
+334;Virton;2;20;9;68
+335;Borac Banja Luka;2;27;10;45
+336;Igman;2;27;10;40
+337;Leotar;2;27;10;37
+338;Posusje;2;27;10;42
+339;Sarajevo;2;27;10;43
+340;Siroki Brijeg;2;27;10;47
+341;Sloboda;2;27;10;38
+342;Sloga Doboj;2;27;10;43
+343;Tuzla City;2;27;10;43
+344;Velez Mostar;2;27;10;42
+345;Zeljeznicar;2;27;10;45
+346;Zrinjski;2;27;10;47
+347;Arda;2;32;11;70
+348;Beroe;2;32;11;70
+349;Botev Plovdiv;2;32;11;68
+350;Botev Vratsa;2;32;11;72
+351;Cherno More;2;32;11;75
+352;CSKA 1948;2;32;11;77
+353;CSKA Sofia;2;32;11;77
+354;Hebar;2;32;11;72
+355;Levski Sofia;2;32;11;77
+356;Lokomotiv Plovdiv;2;32;11;75
+357;Lokomotiv Sofia;2;32;11;73
+358;Ludogorets Razgrad;2;32;11;80
+359;Pirin Blagoevgrad;2;32;11;68
+360;Septemvri Sofia;2;32;11;68
+361;Slavia Sofia;2;32;11;75
+362;Spartak Varna;2;32;11;67
+363;Dinamo Zagreb;2;52;12;85
+364;Gorica;2;52;12;72
+365;Hajduk Split;2;52;12;83
+366;Istra 1961;2;52;12;77
+367;Lokomotiva;2;52;12;75
+368;Osijek;2;52;12;82
+369;Rijeka;2;52;12;73
+370;Šibenik;2;52;12;75
+371;Slaven Belupo;2;52;12;78
+372;Varaždin;2;52;12;77
+373;AEK Larnaca;2;55;13;70
+374;AEL Limassol;2;55;13;63
+375;Anorthosis;2;55;13;68
+376;APOEL;2;55;13;68
+377;Apollon;2;55;13;70
+378;Aris;2;55;13;67
+379;Chioraka;2;55;13;57
+380;Doxa;2;55;13;62
+381;Karmiotissa;2;55;13;63
+382;Nea Salamis;2;55;13;68
+383;Ol. Nicosia;2;55;13;58
+384;Omonia;2;55;13;67
+385;Paphos;2;55;13;70
+386;Paralimni;2;55;13;60
+387;Banik Ostrava;2;56;14;73
+388;Bohemians;2;56;14;80
+389;Brno;2;56;14;77
+390;Ceske Budejovice;2;56;14;78
+391;Hradec Kralove;2;56;14;82
+392;Jablonec;2;56;14;77
+393;Liberec;2;56;14;78
+394;Mlada Boleslav;2;56;14;75
+395;Pardubice;2;56;14;72
+396;Plzen;2;56;14;83
+397;Sigma Olomouc;2;56;14;80
+398;Slavia Prague;2;56;14;83
+399;Slovacko;2;56;14;75
+400;Sparta Prague;2;56;14;82
+401;Teplice;2;56;14;73
+402;Zlin;2;56;14;72
+403;Aalborg;2;57;15;80
+404;Aarhus;2;57;15;77
+405;Brondby;2;57;15;80
+406;Copenhagen;2;57;15;83
+407;Horsens;2;57;15;78
+408;Lyngby;2;57;15;77
+409;Midtjylland;2;57;15;80
+410;Nordsjaelland;2;57;15;82
+411;Odense;2;57;15;82
+412;Randers;2;57;15;78
+413;Silkeborg;2;57;15;78
+414;Viborg;2;57;15;77
+415;Arsenal;2;64;16;98
+416;Aston Villa;2;64;16;93
+417;Bournemouth;2;64;16;90
+418;Brentford;2;64;16;93
+419;Brighton;2;64;16;93
+420;Chelsea;2;64;16;95
+421;Crystal Palace;2;64;16;92
+422;Everton;2;64;16;92
+423;Fulham;2;64;16;90
+424;Leeds;2;64;16;88
+425;Leicester;2;64;16;89
+426;Liverpool;2;64;16;97
+427;Man City;2;64;16;100
+428;Man Utd;2;64;16;96
+429;Newcastle;2;64;16;95
+430;Nottm Forest;2;64;16;90
+431;Southampton;2;64;16;86
+432;Tottenham;2;64;16;96
+433;West Ham;2;64;16;91
+434;Wolves;2;64;16;90
+435;Birmingham;2;64;17;77
+436;Blackburn;2;64;17;85
+437;Blackpool;2;64;17;77
+438;Bristol City;2;64;17;78
+439;Burnley;2;64;17;88
+440;Cardiff;2;64;17;78
+441;Coventry;2;64;17;72
+442;Huddersfield;2;64;17;73
+443;Hull City;2;64;17;75
+444;Luton;2;64;17;83
+445;Middlesbrough;2;64;17;73
+446;Millwall;2;64;17;83
+447;Norwich;2;64;17;88
+448;Preston;2;64;17;82
+449;QPR;2;64;17;85
+450;Reading;2;64;17;83
+451;Rotherham;2;64;17;80
+452;Sheffield Utd;2;64;17;87
+453;Stoke;2;64;17;82
+454;Sunderland;2;64;17;78
+455;Swansea;2;64;17;82
+456;Watford;2;64;17;85
+457;West Bromwich;2;64;17;75
+458;Wigan;2;64;17;80
+459;Accrington;2;64;18;62
+460;Barnsley;2;64;18;68
+461;Bolton;2;64;18;68
+462;Bristol Rovers;2;64;18;65
+463;Burton;2;64;18;58
+464;Cambridge;2;64;18;62
+465;Charlton;2;64;18;63
+466;Cheltenham;2;64;18;60
+467;Derby;2;64;18;67
+468;Exeter;2;64;18;67
+469;Fleetwood;2;64;18;63
+470;Forest Green;2;64;18;60
+471;Ipswich;2;64;18;70
+472;Lincoln;2;64;18;65
+473;MK Dons;2;64;18;60
+474;Morecambe;2;64;18;58
+475;Oxford;2;64;18;62
+476;Peterborough;2;64;18;68
+477;Plymouth;2;64;18;72
+478;Port Vale;2;64;18;63
+479;Portsmouth;2;64;18;70
+480;Sheffield Wed;2;64;18;70
+481;Shrewsbury;2;64;18;67
+482;Wycombe;2;64;18;65
+483;Barrow;2;64;19;53
+484;Bradford City;2;64;19;55
+485;Carlisle;2;64;19;57
+486;Colchester;2;64;19;47
+487;Crawley;2;64;19;47
+488;Crewe;2;64;19;52
+489;Doncaster;2;64;19;52
+490;Gillingham;2;64;19;48
+491;Grimsby;2;64;19;53
+492;Harrogate;2;64;19;48
+493;Hartlepool;2;64;19;45
+494;Leyton Orient;2;64;19;57
+495;Mansfield;2;64;19;57
+496;Newport;2;64;19;48
+497;Northampton;2;64;19;58
+498;Rochdale;2;64;19;47
+499;Salford;2;64;19;55
+500;Stevenage;2;64;19;58
+501;Stockport;2;64;19;50
+502;Sutton;2;64;19;52
+503;Swindon;2;64;19;55
+504;Tranmere;2;64;19;53
+505;Walsall;2;64;19;50
+506;Wimbledon;2;64;19;50
+507;Aldershot;2;64;20;33
+508;Altrincham;2;64;20;37
+509;Barnet;2;64;20;38
+510;Boreham Wood;2;64;20;43
+511;Bromley;2;64;20;43
+512;Chesterfield;2;64;20;43
+513;Dag & Red;2;64;20;40
+514;Dorking;2;64;20;37
+515;Eastleigh;2;64;20;40
+516;Gateshead;2;64;20;35
+517;Halifax;2;64;20;35
+518;Maidenhead;2;64;20;38
+519;Maidstone;2;64;20;33
+520;Notts County;2;64;20;45
+521;Oldham;2;64;20;35
+522;Scunthorpe;2;64;20;33
+523;Solihull Moors;2;64;20;42
+524;Southend;2;64;20;38
+525;Torquay;2;64;20;33
+526;Wealdstone;2;64;20;40
+527;Woking;2;64;20;42
+528;Wrexham;2;64;20;45
+529;Yeovil;2;64;20;37
+530;York;2;64;20;42
+531;AFC Fylde;2;64;21;33
+532;AFC Telford;2;64;21;23
+533;Alfreton;2;64;21;30
+534;Banbury;2;64;21;35
+535;Blyth Spartans;2;64;21;23
+536;Boston Utd;2;64;21;27
+537;Brackley Town;2;64;21;32
+538;Bradford PA;2;64;21;23
+539;Buxton;2;64;21;25
+540;Chester;2;64;21;27
+541;Chorley;2;64;21;32
+542;Curzon Ashton;2;64;21;28
+543;Darlington;2;64;21;35
+544;Farsley;2;64;21;25
+545;Gloucester;2;64;21;33
+546;Hereford;2;64;21;28
+547;Kettering;2;64;21;25
+548;Kidderminster;2;64;21;32
+549;King's Lynn;2;64;21;35
+550;Leamington;2;64;21;30
+551;Peterborough Sports;2;64;21;30
+552;Scarborough;2;64;21;33
+553;Southport;2;64;21;28
+554;Spennymoor;2;64;21;27
+555;Bath;2;64;22;33
+556;Braintree;2;64;22;32
+557;Chelmsford;2;64;22;33
+558;Cheshunt;2;64;22;23
+559;Chippenham;2;64;22;28
+560;Concord;2;64;22;23
+561;Dartford;2;64;22;35
+562;Dover;2;64;22;30
+563;Dulwich Hamlet;2;64;22;25
+564;Eastbourne Boro;2;64;22;28
+565;Ebbsfleet;2;64;22;35
+566;Farnsborough;2;64;22;25
+567;Hampton & Richmond;2;64;22;27
+568;Havent & W;2;64;22;35
+569;Hemel Hempstead;2;64;22;27
+570;Hungerford;2;64;22;25
+571;Oxford City;2;64;22;28
+572;Slough;2;64;22;30
+573;St. Albans;2;64;22;32
+574;Taunton;2;64;22;27
+575;Tonbridge;2;64;22;30
+576;Welling;2;64;22;32
+577;Weymouth;2;64;22;23
+578;Worthing;2;64;22;33
+579;Flora;2;67;23;40
+580;Kalju;2;67;23;38
+581;Kuressaare;2;67;23;37
+582;Legion;2;67;23;33
+583;Levadia;2;67;23;40
+584;Nerva;2;67;23;37
+585;Paide;2;67;23;38
+586;Parnu JK;2;67;23;33
+587;Tallinna Kalev;2;67;23;35
+588;Tammeka;2;67;23;35
+589;07 Vastur;2;70;24;38
+590;AB Argir;2;70;24;37
+591;B36 Torshavn;2;70;24;40
+592;HB Torshavn;2;70;24;40
+593;Klaksvik;2;70;24;42
+594;NSI Runavik;2;70;24;35
+595;Skala Itotterfelag;2;70;24;35
+596;Streymur;2;70;24;38
+597;Toftir;2;70;24;37
+598;Vikingur Gota;2;70;24;42
+599;AC Oulu;2;72;25;48
+600;Haka;2;72;25;50
+601;HIFK;2;72;25;43
+602;HJK;2;72;25;58
+603;Honka;2;72;25;53
+604;Ilves;2;72;25;47
+605;Inter Turku;2;72;25;50
+606;KuPS;2;72;25;53
+607;Lahti;2;72;25;45
+608;Mariehamn;2;72;25;47
+609;SJK;2;72;25;48
+610;VPS;2;72;25;45
+611;Ajaccio;2;73;26;82
+612;Angers;2;73;26;82
+613;Auxerre;2;73;26;83
+614;Brest;2;73;26;80
+615;Clermont;2;73;26;87
+616;Lens;2;73;26;90
+617;Lille;2;73;26;88
+618;Lorient;2;73;26;92
+619;Lyon;2;73;26;87
+620;Marseille;2;73;26;92
+621;Monaco;2;73;26;90
+622;Montpellier;2;73;26;87
+623;Nantes;2;73;26;82
+624;Nice;2;73;26;85
+625;Paris SG;2;73;26;98
+626;Reims;2;73;26;83
+627;Rennes;2;73;26;88
+628;Strasbourg;2;73;26;83
+629;Toulouse;2;73;26;85
+630;Troyes;2;73;26;85
+631;Amiens;2;73;27;80
+632;Annecy;2;73;27;73
+633;Bastia;2;73;27;77
+634;Bordeaux;2;73;27;82
+635;Caen;2;73;27;78
+636;Dijon;2;73;27;73
+637;Grenoble;2;73;27;78
+638;Guingamp;2;73;27;78
+639;Laval;2;73;27;75
+640;Le Havre;2;73;27;82
+641;Metz;2;73;27;77
+642;Nimes;2;73;27;72
+643;Niort;2;73;27;70
+644;Paris FC;2;73;27;77
+645;Pau FC;2;73;27;75
+646;Quevilly Rouen;2;73;27;75
+647;Rodez;2;73;27;73
+648;Sochaux;2;73;27;80
+649;St Etienne;2;73;27;72
+650;Valenciennes;2;73;27;80
+651;Avranches;2;73;28;65
+652;Bastia-Borgo;2;73;28;58
+653;Bourg en Bresse;2;73;28;62
+654;Chateauroux;2;73;28;68
+655;Cholet;2;73;28;67
+656;Concerneau;2;73;28;70
+657;Dunkerque;2;73;28;70
+658;Le Mans;2;73;28;62
+659;Le Puy-en-Velay;2;73;28;60
+660;Martigues;2;73;28;67
+661;Nancy;2;73;28;63
+662;Orleans;2;73;28;63
+663;Paris 13 Atl.;2;73;28;58
+664;Red Star;2;73;28;65
+665;Sedan;2;73;28;60
+666;Stade Briochin;2;73;28;58
+667;Versailles;2;73;28;68
+668;Villefranche;2;73;28;60
+669;Bolnisi;2;77;29;37
+670;Dila Gori;2;77;29;40
+671;Dinamo Batumi;2;77;29;42
+672;Dinamo Tbilisi;2;77;29;47
+673;Gagra;2;77;29;37
+674;Locomotive T.;2;77;29;35
+675;Saburtalo Tbilisi;2;77;29;38
+676;Samgurali;2;77;29;42
+677;Telavi;2;77;29;38
+678;Torpedo Kutaisi;2;77;29;40
+679;Augsburg;2;78;30;88
+680;Bayern Munich;2;78;30;100
+681;Bochum;2;78;30;82
+682;Dortmund;2;78;30;97
+683;E. Frankfurt;2;78;30;93
+684;Freiburg;2;78;30;92
+685;Hertha Berlin;2;78;30;87
+686;Hoffenheim;2;78;30;88
+687;Koln;2;78;30;92
+688;Leverkusen;2;78;30;85
+689;Mainz;2;78;30;90
+690;Monchengladbach;2;78;30;93
+691;RB Leipzig;2;78;30;93
+692;Schalke;2;78;30;83
+693;Stuttgart;2;78;30;87
+694;Union Berlin;2;78;30;90
+695;Werder Bremen;2;78;30;90
+696;Wolfsburg;2;78;30;88
+697;Arminia Bielefeld;2;78;31;70
+698;Braunschweig;2;78;31;77
+699;Darmstadt;2;78;31;80
+700;Dusseldorf;2;78;31;82
+701;Greuther Furth;2;78;31;72
+702;Hamburger SV;2;78;31;83
+703;Hannover;2;78;31;82
+704;Hansa Rostock;2;78;31;75
+705;Heidenheim;2;78;31;80
+706;Holstein Kiel;2;78;31;78
+707;Kaiserslautern;2;78;31;78
+708;Karlsruher;2;78;31;78
+709;Magdeburg;2;78;31;72
+710;Nurnberg;2;78;31;75
+711;Paderborn;2;78;31;80
+712;Regensburg;2;78;31;73
+713;Sandhausen;2;78;31;73
+714;St. Pauli;2;78;31;77
+715;Aue;2;78;32;50
+716;Bayreuth;2;78;32;48
+717;Dortmund II;2;78;32;48
+718;Duisburg;2;78;32;58
+719;Dynamo Dresden;2;78;32;67
+720;Elversberg;2;78;32;70
+721;Freiburg II;2;78;32;67
+722;Hallescher;2;78;32;50
+723;Ingolstadt;2;78;32;68
+724;Mannheim;2;78;32;63
+725;Meppen;2;78;32;53
+726;Munich 1860;2;78;32;72
+727;Oldenburg;2;78;32;62
+728;Osnabruck;2;78;32;58
+729;RW Essen;2;78;32;57
+730;Saarbrucken;2;78;32;63
+731;Verl;2;78;32;55
+732;Viktoria Koln;2;78;32;60
+733;Wehen;2;78;32;68
+734;Zwickau;2;78;32;52
+735;College 1975;2;80;33;20
+736;Europa;2;80;33;30
+737;Europa Point;2;80;33;25
+738;Glacis United;2;80;33;23
+739;Lincoln Red Imps;2;80;33;28
+740;Lions Gibraltar;2;80;33;22
+741;Lynx;2;80;33;30
+742;Magpies;2;80;33;25
+743;Manchester 62;2;80;33;18
+744;Mons Calpe;2;80;33;20
+745;St Josephs;2;80;33;27
+746;AEK Athens;2;81;34;80
+747;Aris;2;81;34;78
+748;Astras Tripolis;2;81;34;75
+749;Atromitos;2;81;34;77
+750;Giannina;2;81;34;70
+751;Ionikos;2;81;34;68
+752;Lamia;2;81;34;73
+753;Levadiakos;2;81;34;70
+754;OFI Crete;2;81;34;72
+755;Olympiacos;2;81;34;87
+756;Panathinaikos;2;81;34;80
+757;Panetolikos;2;81;34;75
+758;PAOK;2;81;34;77
+759;Volos;2;81;34;78
+760;Debrecen;2;92;35;68
+761;Ferencvaros;2;92;35;82
+762;Honved;2;92;35;67
+763;Kecskemeti;2;92;35;75
+764;Kisvarda;2;92;35;73
+765;Mazokovesd-Zsory;2;92;35;65
+766;MOL Fehervar;2;92;35;70
+767;Paks;2;92;35;72
+768;Puskas Academy;2;92;35;75
+769;Ujpest;2;92;35;72
+770;Vasas;2;92;35;67
+771;Zalaegerszegi;2;92;35;73
+772;Akranes;2;93;36;30
+773;Akureyri;2;93;36;38
+774;Breidablik;2;93;36;40
+775;Fram;2;93;36;33
+776;Hafnarfjordur;2;93;36;30
+777;Keflavik;2;93;36;35
+778;KR Reykjavik;2;93;36;37
+779;Leiknir;2;93;36;32
+780;Stjarnan;2;93;36;37
+781;Valur;2;93;36;38
+782;Vestmannaeyjar;2;93;36;32
+783;Vikingur R.;2;93;36;40
+784;Ashdod;2;98;37;75
+785;Beitar Jerusalem;2;98;37;67
+786;H. Beer Sheva;2;98;37;78
+787;Hapoel Hadera;2;98;37;73
+788;Hapoel Haifa;2;98;37;72
+789;Hapoel Jerusalem;2;98;37;78
+790;Hapoel Tel Aviv;2;98;37;68
+791;Kiryat Shmona;2;98;37;72
+792;Maccabi Bnei Raina;2;98;37;73
+793;Maccabi Haifa;2;98;37;80
+794;Maccabi Tel Aviv;2;98;37;80
+795;Nes Tziona;2;98;37;67
+796;Netanya;2;98;37;70
+797;Sakhnin;2;98;37;77
+798;Atalanta;2;99;38;93
+799;Bologna;2;99;38;88
+800;Cremonese;2;99;38;83
+801;Empoli;2;99;38;90
+802;Fiorentina;2;99;38;87
+803;Hellas;2;99;38;83
+804;Inter;2;99;38;98
+805;Juventus;2;99;38;98
+806;Lazio;2;99;38;95
+807;Lecce;2;99;38;85
+808;Milan;2;99;38;98
+809;Monza;2;99;38;85
+810;Napoli;2;99;38;97
+811;Roma;2;99;38;95
+812;Salernitana;2;99;38;88
+813;Sampdoria;2;99;38;85
+814;Sassuolo;2;99;38;92
+815;Spezia;2;99;38;85
+816;Torino;2;99;38;90
+817;Udinese;2;99;38;92
+818;Ascoli;2;99;39;75
+819;Bari;2;99;39;83
+820;Benevento;2;99;39;70
+821;Brescia;2;99;39;78
+822;Cagliari;2;99;39;78
+823;Cittadella;2;99;39;72
+824;Como;2;99;39;63
+825;Cosenza;2;99;39;73
+826;Frosinone;2;99;39;80
+827;Genoa;2;99;39;83
+828;Modena;2;99;39;77
+829;Palermo;2;99;39;67
+830;Parma;2;99;39;80
+831;Perugia;2;99;39;65
+832;Pisa;2;99;39;67
+833;Reggina;2;99;39;82
+834;Spal;2;99;39;72
+835;Sudtirol;2;99;39;73
+836;Ternana;2;99;39;82
+837;Venezia;2;99;39;68
+838;Aksu;2;103;40;45
+839;Aktobe;2;103;40;48
+840;Akzhayik;2;103;40;33
+841;Astana;2;103;40;52
+842;Atyrau;2;103;40;40
+843;K. Almaty;2;103;40;47
+844;Kaspij Aktau;2;103;40;42
+845;Kyzylzhar;2;103;40;38
+846;Maqtaaral;2;103;40;35
+847;Ordabasy;2;103;40;45
+848;S. Karagandy;2;103;40;43
+849;Taraz;2;103;40;40
+850;Tobol;2;103;40;47
+851;Turan;2;103;40;38
+852;Ballkani;2;108;41;50
+853;Drenica;2;108;41;43
+854;Drita;2;108;41;47
+855;Dukagjini;2;108;41;40
+856;Ferizaj;2;108;41;40
+857;Gjilani;2;108;41;45
+858;Llapi;2;108;41;43
+859;Malisheva;2;108;41;42
+860;Prishtina;2;108;41;45
+861;Trepca 89;2;108;41;42
+862;Auda;2;112;42;42
+863;Daugavpils;2;112;42;45
+864;FK Liepaja;2;112;42;45
+865;Metta/LU;2;112;42;40
+866;RFS;2;112;42;50
+867;Riga FC;2;112;42;48
+868;Spartaks;2;112;42;38
+869;Super Nova;2;112;42;37
+870;Tukums 2000;2;112;42;43
+871;Valmiera;2;112;42;45
+872;Banga;2;118;43;35
+873;Dziugas Telsiai;2;118;43;35
+874;Hegelmann;2;118;43;42
+875;Jonava;2;118;43;33
+876;Kauno Zalgiris;2;118;43;37
+877;Panevezys;2;118;43;40
+878;Riteriai;2;118;43;37
+879;Siauliai;2;118;43;38
+880;Suduva;2;118;43;38
+881;Zalgiris;2;118;43;48
+882;Differdange;2;119;44;35
+883;Dudelange;2;119;44;45
+884;Ettelbruck;2;119;44;30
+885;Fola;2;119;44;28
+886;Hesperange;2;119;44;42
+887;Hostert;2;119;44;28
+888;Jeunesse Esch;2;119;44;35
+889;Kaerjeng;2;119;44;32
+890;Mondercange;2;119;44;33
+891;Mondorf;2;119;44;37
+892;Niedercorn;2;119;44;38
+893;Racing Luxembourg;2;119;44;40
+894;UNA Strassen;2;119;44;32
+895;Union Titus;2;119;44;33
+896;Victoria Rosport;2;119;44;30
+897;Wiltz;2;119;44;30
+898;Balzan;2;126;45;25
+899;Birkirkara;2;126;45;28
+900;Floriana;2;126;45;23
+901;Gudja;2;126;45;27
+902;Gzira;2;126;45;27
+903;Hamrun;2;126;45;28
+904;Hibernians;2;126;45;23
+905;Marsaxlokk;2;126;45;22
+906;Mosta;2;126;45;25
+907;Pieta Hotspurs;2;126;45;18
+908;Santa Lucia;2;126;45;18
+909;Sirens;2;126;45;20
+910;Velletta;2;126;45;22
+911;Zebbug;2;126;45;20
+912;Balti;2;131;46;43
+913;Dacia Buiucani;2;131;46;43
+914;Dinamo Auto;2;131;46;42
+915;Milsami;2;131;46;45
+916;Petrocub;2;131;46;47
+917;Sf.Gheorghe;2;131;46;45
+918;Sheriff Tiraspol;2;131;46;57
+919;Zimbru;2;131;46;42
+920;Arsenal Tivat;2;133;47;37
+921;Budocnost;2;133;47;43
+922;Decic;2;133;47;43
+923;Iskra;2;133;47;35
+924;Jedinstvo;2;133;47;35
+925;Jezero;2;133;47;42
+926;Mornar Bar;2;133;47;33
+927;OFK Petrovac;2;133;47;38
+928;Rudar;2;133;47;37
+929;Sutjeska;2;133;47;40
+930;Ajax;2;140;48;78
+931;AZ Alkmaar;2;140;48;75
+932;Cambuur;2;140;48;63
+933;Excelsior;2;140;48;67
+934;FC Emmen;2;140;48;62
+935;Feyenoord;2;140;48;75
+936;GA Eagles;2;140;48;65
+937;Groningen;2;140;48;65
+938;Heerenveen;2;140;48;73
+939;Nijmegen;2;140;48;67
+940;PSV;2;140;48;78
+941;Sittard;2;140;48;68
+942;Sparta Rotterdam;2;140;48;72
+943;Twente;2;140;48;73
+944;Utrecht;2;140;48;68
+945;Vitesse;2;140;48;63
+946;Volendam;2;140;48;62
+947;Waalwijk;2;140;48;70
+948;Almere City;2;140;49;53
+949;Breda;2;140;49;50
+950;Den Bosch;2;140;49;48
+951;Den Haag;2;140;49;50
+952;Dordrecht;2;140;49;50
+953;Eindhoven;2;140;49;60
+954;Graafschap;2;140;49;47
+955;Helmond;2;140;49;45
+956;Heracles;2;140;49;62
+957;Jogn Ajax;2;140;49;52
+958;Jong AZ;2;140;49;55
+959;Jong PSV;2;140;49;48
+960;Jong Utrecht;2;140;49;45
+961;Maastricht;2;140;49;58
+962;Oss;2;140;49;47
+963;Roda;2;140;49;58
+964;Telstar;2;140;49;52
+965;Venlo;2;140;49;57
+966;Willem II;2;140;49;57
+967;Zwolle;2;140;49;60
+968;Akademija Pandev;2;146;50;40
+969;Bregalnica Stip;2;146;50;42
+970;FK Skopje;2;146;50;38
+971;Makedonija GP;2;146;50;43
+972;Podeba;2;146;50;38
+973;Rabotnicki;2;146;50;42
+974;Shkendija;2;146;50;48
+975;Shkupi;2;146;50;45
+976;Sileks;2;146;50;47
+977;Struga;2;146;50;48
+978;Tikves;2;146;50;47
+979;Ballymena;2;147;51;37
+980;Carrick Rangers;2;147;51;38
+981;Cliftonville;2;147;51;40
+982;Coleraine;2;147;51;38
+983;Crusaders;2;147;51;40
+984;Dungannon;2;147;51;33
+985;Glenavon;2;147;51;35
+986;Glentoran;2;147;51;42
+987;Larne;2;147;51;42
+988;Linfield;2;147;51;37
+989;Newry City;2;147;51;33
+990;Portadown;2;147;51;32
+991;Aalesund;2;149;52;70
+992;Bodo/Glimt;2;149;52;82
+993;Ham-Kam;2;149;52;68
+994;Haugesund;2;149;52;72
+995;Jerv;2;149;52;67
+996;Kristiansund;2;149;52;67
+997;Lillestrom;2;149;52;78
+998;Molde;2;149;52;83
+999;Odd;2;149;52;77
+1000;Rosenborg;2;149;52;82
+1001;Sandefjord;2;149;52;68
+1002;Sarpsborg 08;2;149;52;73
+1003;Stromsgodet;2;149;52;72
+1004;Tromso;2;149;52;77
+1005;Valarenga;2;149;52;78
+1006;Viking;2;149;52;75
+1007;Asane;2;149;53;57
+1008;Brann;2;149;53;68
+1009;Bryne;2;149;53;53
+1010;Fredrikstad;2;149;53;55
+1011;Grorud;2;149;53;52
+1012;KFUM Oslo;2;149;53;63
+1013;Kongsvinger;2;149;53;62
+1014;Mjondalen;2;149;53;58
+1015;Ranheim;2;149;53;58
+1016;Raufoss;2;149;53;57
+1017;Sandnes;2;149;53;60
+1018;Skeid;2;149;53;52
+1019;Sogndal;2;149;53;60
+1020;Stabaek;2;149;53;65
+1021;Start;2;149;53;62
+1022;Stjordais Blink;2;149;53;50
+1023;Cracovia;2;158;54;70
+1024;G. Zabrze;2;158;54;68
+1025;Jagiellonia;2;158;54;72
+1026;Korona;2;158;54;65
+1027;Lech;2;158;54;77
+1028;Lechia;2;158;54;65
+1029;Legia;2;158;54;75
+1030;Miedz;2;158;54;63
+1031;Mielec;2;158;54;72
+1032;Piast Gliwice;2;158;54;67
+1033;Plock;2;158;54;75
+1034;Pogon;2;158;54;73
+1035;Radomiak;2;158;54;68
+1036;Rakow;2;158;54;78
+1037;Slask;2;158;54;67
+1038;Warta;2;158;54;70
+1039;Widzew;2;158;54;73
+1040;Zaglebie;2;158;54;68
+1041;Arka Gdynia;2;158;55;62
+1042;Chojniczanka;2;158;55;52
+1043;Chrobry;2;158;55;57
+1044;G. Leczna;2;158;55;52
+1045;Katowice;2;158;55;62
+1046;LKS Lodz;2;158;55;65
+1047;Nieciecza;2;158;55;57
+1048;Odra Opole;2;158;55;48
+1049;Podbeskidzie;2;158;55;60
+1050;Puszcza;2;158;55;62
+1051;Resovia;2;158;55;57
+1052;Ruch Chorzow;2;158;55;63
+1053;Sandecja;2;158;55;48
+1054;Skra;2;158;55;50
+1055;Sosnowiec;2;158;55;58
+1056;Stal Rzeszow;2;158;55;58
+1057;Tychy;2;158;55;62
+1058;Wisla Krakow;2;158;55;65
+1059;Garbarnia;2;158;56;37
+1060;Hutnik;2;158;56;32
+1061;Jastrzebie;2;158;56;42
+1062;Kalisz;2;158;56;45
+1063;Kotwica;2;158;56;45
+1064;Lubin 2;2;158;56;40
+1065;Motor;2;158;56;33
+1066;Olimpia;2;158;56;40
+1067;Polkowice;2;158;56;38
+1068;Polonia;2;158;56;43
+1069;Poznan 2;2;158;56;32
+1070;Pulawy;2;158;56;43
+1071;Radunia;2;158;56;35
+1072;Siarka;2;158;56;35
+1073;Siedlce;2;158;56;33
+1074;Stomil;2;158;56;38
+1075;Wroclaw 2;2;158;56;37
+1076;Znicz;2;158;56;42
+1077;Arouca;2;159;57;82
+1078;Benfica;2;159;57;93
+1079;Boavista;2;159;57;88
+1080;Braga;2;159;57;88
+1081;Casa Pia;2;159;57;87
+1082;Chaves;2;159;57;83
+1083;Estoril;2;159;57;87
+1084;Famalicao;2;159;57;77
+1085;Ferreira;2;159;57;75
+1086;Gil Vicente;2;159;57;78
+1087;Guimaraes;2;159;57;85
+1088;Maritimo;2;159;57;73
+1089;Portimonense;2;159;57;85
+1090;Porto;2;159;57;93
+1091;Rio Ave;2;159;57;78
+1092;Santa Clara;2;159;57;77
+1093;Sporting;2;159;57;92
+1094;Vizela;2;159;57;80
+1095;Academico Viseu;2;159;58;60
+1096;Benfica B;2;159;58;62
+1097;BSAD;2;159;58;53
+1098;Covilha;2;159;58;55
+1099;Estrela;2;159;58;68
+1100;Farense;2;159;58;70
+1101;Feirense;2;159;58;65
+1102;Leixoes;2;159;58;62
+1103;Mafra;2;159;58;60
+1104;Moreirense;2;159;58;72
+1105;Nacional;2;159;58;57
+1106;Oliveirense;2;159;58;57
+1107;Penafiel;2;159;58;63
+1108;Porto B;2;159;58;65
+1109;Tondela;2;159;58;67
+1110;Torreense;2;159;58;58
+1111;Trofense;2;159;58;58
+1112;Vilafranquense;2;159;58;70
+1113;Bohemians;2;162;59;38
+1114;Derry City;2;162;59;42
+1115;Drogheda;2;162;59;37
+1116;Dundalk;2;162;59;42
+1117;Finn Harps;2;162;59;35
+1118;Shamrock;2;162;59;48
+1119;Shelbourne;2;162;59;38
+1120;Sligo Rovers;2;162;59;40
+1121;St. Patricks;2;162;59;40
+1122;UC Dublin;2;162;59;33
+1123;Arges;2;164;60;67
+1124;Botosani;2;164;60;65
+1125;Chindia Targoviste;2;164;60;60
+1126;Cluj;2;164;60;72
+1127;Farul Constanta;2;164;60;70
+1128;FCSB;2;164;60;70
+1129;Hermannstadt;2;164;60;70
+1130;Mioveni;2;164;60;58
+1131;Petrolul;2;164;60;67
+1132;Rapid Bucuresti;2;164;60;72
+1133;Sepsi Sf. Gheorghe;2;164;60;68
+1134;U. Cluj;2;164;60;62
+1135;U. Craiova 1948;2;164;60;63
+1136;Univ. Craiova;2;164;60;70
+1137;UTA Arad;2;164;60;65
+1138;Voluntari;2;164;60;68
+1139;Akhmat Grozny;2;165;61;75
+1140;CSKA;2;165;61;78
+1141;Dynamo Moscow;2;165;61;75
+1142;Fakel Voronezh;2;165;61;68
+1143;FK Rostov;2;165;61;80
+1144;Khimki;2;165;61;67
+1145;Krasnodar;2;165;61;77
+1146;Krylya Sovetov;2;165;61;68
+1147;Lokomotiv;2;165;61;68
+1148;Nizhny Novgorod;2;165;61;72
+1149;Orenburg;2;165;61;73
+1150;Sochi;2;165;61;77
+1151;Spartak;2;165;61;78
+1152;Torpedo;2;165;61;67
+1153;Ural;2;165;61;70
+1154;Zenit;2;165;61;80
+1155;Akron Togliatti;2;165;62;52
+1156;Alania Vladikavkaz;2;165;62;68
+1157;Arsenal Tula;2;165;62;63
+1158;Baltika;2;165;62;65
+1159;D. Makhachkala;2;165;62;58
+1160;Kamaz;2;165;62;65
+1161;Khabarovsk;2;165;62;58
+1162;Krasnodar 2;2;165;62;53
+1163;Kuban;2;165;62;55
+1164;Neftekhimik;2;165;62;57
+1165;Rodina;2;165;62;50
+1166;Rubin Kazan;2;165;62;67
+1167;Shinnik;2;165;62;60
+1168;Ufa;2;165;62;57
+1169;Ulyanovsk;2;165;62;48
+1170;Vels Moscow;2;165;62;50
+1171;Volgar-Astrakhan;2;165;62;62
+1172;Yenisey;2;165;62;63
+1173;Cailungo;2;172;63;23
+1174;Cosmos;2;172;63;32
+1175;Domagnano;2;172;63;23
+1176;Faetano;2;172;63;25
+1177;Fiorentino;2;172;63;22
+1178;Folgore;2;172;63;27
+1179;Juvenes/Dogana;2;172;63;25
+1180;La Fiorita;2;172;63;33
+1181;Libertas;2;172;63;28
+1182;Murata;2;172;63;27
+1183;Pennarossa;2;172;63;30
+1184;San Giovanni;2;172;63;28
+1185;Tre Fiori;2;172;63;30
+1186;Tre Penne;2;172;63;32
+1187;Virtus;2;172;63;33
+1188;Aberdeen;2;175;64;75
+1189;Celtic;2;175;64;88
+1190;Dundee Utd;2;175;64;68
+1191;Hearts;2;175;64;75
+1192;Hibernians;2;175;64;75
+1193;Kilmarnock;2;175;64;68
+1194;Livingston;2;175;64;73
+1195;Motherwell;2;175;64;72
+1196;Rangers;2;175;64;88
+1197;Ross County;2;175;64;67
+1198;St Johnstone;2;175;64;70
+1199;St Mirren;2;175;64;73
+1200;Arbroath;2;175;65;58
+1201;Ayr;2;175;65;65
+1202;Cove Rangers;2;175;65;60
+1203;Dundee Utd;2;175;65;65
+1204;Hamilton;2;175;65;57
+1205;Inverness;2;175;65;67
+1206;Morton;2;175;65;63
+1207;Partick Thistle;2;175;65;67
+1208;Queen's Park;2;175;65;62
+1209;Raith;2;175;65;60
+1210;Airdrieonians;2;175;66;48
+1211;Alloa;2;175;66;50
+1212;Clyde;2;175;66;45
+1213;Dunfermline;2;175;66;55
+1214;Edinburgh;2;175;66;53
+1215;Falkirk;2;175;66;52
+1216;Kelty Hearts;2;175;66;45
+1217;Montrose;2;175;66;52
+1218;Peterhead;2;175;66;43
+1219;Queen of South;2;175;66;47
+1220;Albion Rovers;2;175;67;33
+1221;Annan;2;175;67;35
+1222;Bonnyrigg Rose;2;175;67;37
+1223;Dumbarton;2;175;67;40
+1224;East Fife;2;175;67;40
+1225;Elgin City;2;175;67;38
+1226;Forfar Athletic;2;175;67;35
+1227;Stenhousemuir;2;175;67;38
+1228;Stirling;2;175;67;42
+1229;Stranraer;2;175;67;37
+1230;Backa Topola;2;177;68;77
+1231;Crvena Zvezda;2;177;68;82
+1232;Cukaricki;2;177;68;75
+1233;Javor;2;177;68;63
+1234;Kolubara;2;177;68;68
+1235;Mladost;2;177;68;62
+1236;Mladost GAT;2;177;68;60
+1237;Napredak;2;177;68;67
+1238;Novi Pazar;2;177;68;73
+1239;Partizan;2;177;68;80
+1240;Radnicki 1923;2;177;68;67
+1241;Radnicki Nis;2;177;68;65
+1242;Radnik;2;177;68;58
+1243;Sp. Subotica;2;177;68;65
+1244;Vojvodina;2;177;68;73
+1245;Vozdovac;2;177;68;70
+1246;Banska Bystrica;2;182;69;67
+1247;Dun. Streda;2;182;69;72
+1248;Michalovce;2;182;69;65
+1249;Mikulas;2;182;69;60
+1250;Moravce-Vrable;2;182;69;62
+1251;Podbrezova;2;182;69;68
+1252;Ruzomberok;2;182;69;70
+1253;Skalica;2;182;69;63
+1254;Slovan Bratislava;2;182;69;75
+1255;Trencin;2;182;69;67
+1256;Trnava;2;182;69;73
+1257;Zilina;2;182;69;68
+1258;Bravo;2;183;70;58
+1259;Celje;2;183;70;63
+1260;Domzale;2;183;70;60
+1261;Koper;2;183;70;63
+1262;Maribor;2;183;70;67
+1263;Murata;2;183;70;62
+1264;ND Gorica;2;183;70;57
+1265;O. Ljubljana;2;183;70;67
+1266;Radomlje;2;183;70;58
+1267;Tabor Sezana;2;183;70;57
+1268;Almeria;2;188;71;83
+1269;Ath. Bilbao;2;188;71;97
+1270;Atl. Madrid;2;188;71;98
+1271;Barcelona;2;188;71;98
+1272;Cadiz;2;188;71;82
+1273;Celta Vigo;2;188;71;90
+1274;Elche;2;188;71;80
+1275;Espanyol;2;188;71;85
+1276;Getafe;2;188;71;83
+1277;Girona;2;188;71;85
+1278;Mallorca;2;188;71;88
+1279;Osasuna;2;188;71;92
+1280;Rayo Vallecano;2;188;71;90
+1281;Real Betis;2;188;71;95
+1282;Real Madrid;2;188;71;100
+1283;Real Sociedad;2;188;71;93
+1284;Sevilla;2;188;71;88
+1285;Valencia;2;188;71;92
+1286;Valladolid;2;188;71;87
+1287;Villarreal;2;188;71;92
+1288;Alaves;2;188;72;78
+1289;Albacete;2;188;72;78
+1290;Andorra;2;188;72;72
+1291;Burgos;2;188;72;77
+1292;Cartagena;2;188;72;75
+1293;Eibar;2;188;72;77
+1294;Gijon;2;188;72;73
+1295;Granada;2;188;72;75
+1296;Huesca;2;188;72;73
+1297;Las Palmas;2;188;72;80
+1298;Leganes;2;188;72;67
+1299;Levante;2;188;72;72
+1300;Lugo;2;188;72;65
+1301;Malaga;2;188;72;65
+1302;Mirandes;2;188;72;63
+1303;Ponferradina;2;188;72;68
+1304;R. Oviedo;2;188;72;65
+1305;Racing Santander;2;188;72;68
+1306;Tenerife;2;188;72;67
+1307;UD Ibiza;2;188;72;67
+1308;Villarreal B;2;188;72;70
+1309;Zaragoza;2;188;72;70
+1310;AIK;2;192;73;78
+1311;Deferfors;2;192;73;68
+1312;Djurgarden;2;192;73;78
+1313;Elsfborg;2;192;73;75
+1314;Goteborg;2;192;73;77
+1315;Hacken;2;192;73;75
+1316;Hammarby;2;192;73;77
+1317;Helsingborg;2;192;73;70
+1318;Kalmar;2;192;73;75
+1319;Malmo;2;192;73;80
+1320;Mjallby;2;192;73;73
+1321;Norrkoping;2;192;73;70
+1322;Sirius;2;192;73;70
+1323;Sundsvall;2;192;73;67
+1324;Varberg;2;192;73;68
+1325;Varnamo;2;192;73;72
+1326;Brage;2;192;74;62
+1327;Brommapojkarna;2;192;74;67
+1328;Dalkurd;2;192;74;52
+1329;Eskilstuna;2;192;74;60
+1330;Halmstad;2;192;74;65
+1331;Jonkoping;2;192;74;53
+1332;Landskrona;2;192;74;58
+1333;Norrby;2;192;74;52
+1334;Orebro;2;192;74;57
+1335;Orgryte;2;192;74;53
+1336;Oster;2;192;74;63
+1337;Ostersund;2;192;74;50
+1338;Skovde AIK;2;192;74;62
+1339;Trelleborg;2;192;74;60
+1340;Utsikten;2;192;74;57
+1341;Vasteras;2;192;74;55
+1342;Basel;2;193;75;83
+1343;Grasshoppers;2;193;75;80
+1344;Lugano;2;193;75;77
+1345;Luzern;2;193;75;70
+1346;Servette;2;193;75;80
+1347;Sion;2;193;75;78
+1348;St. Gallen;2;193;75;78
+1349;Winterthur;2;193;75;68
+1350;Young Boys;2;193;75;83
+1351;Zurich;2;193;75;72
+1352;Aarau;2;193;76;63
+1353;Bellinzona;2;193;76;57
+1354;Lausanne;2;193;76;67
+1355;Laussane Ouchy;2;193;76;65
+1356;Schaffhausen;2;193;76;52
+1357;Thun;2;193;76;55
+1358;Vaduz;2;193;76;53
+1359;Wil;2;193;76;60
+1360;Xamax;2;193;76;55
+1361;Yverdon;2;193;76;58
+1362;Adana Demirspor;2;204;77;78
+1363;Alanyaspor;2;204;77;72
+1364;Ankaragucu;2;204;77;67
+1365;Antalyaspor;2;204;77;65
+1366;Basaksehir;2;204;77;82
+1367;Besiktas;2;204;77;85
+1368;Fenerbahce;2;204;77;83
+1369;Galatasaray;2;204;77;83
+1370;Gaziantep;2;204;77;73
+1371;Giresunspor;2;204;77;68
+1372;Hatayspor;2;204;77;65
+1373;Istanbulspor;2;204;77;68
+1374;Karagumruk;2;204;77;70
+1375;Kasimpasa;2;204;77;72
+1376;Kayserispor;2;204;77;73
+1377;Konyaspor;2;204;77;77
+1378;Sivasspor;2;204;77;67
+1379;Trabzonspor;2;204;77;80
+1380;Umraniuespor;2;204;77;62
+1381;Adanaspor;2;204;78;43
+1382;Altay;2;204;78;42
+1383;Altinordu;2;204;78;45
+1384;Bandirmaspor;2;204;78;52
+1385;Boluspor;2;204;78;58
+1386;Bordumspor;2;204;78;57
+1387;Denizlispor;2;204;78;40
+1388;Erzurumspor;2;204;78;47
+1389;Eyupspor;2;204;78;60
+1390;Genclerbirligi;2;204;78;42
+1391;Goztepe;2;204;78;43
+1392;Keciorengucu;2;204;78;60
+1393;Manisa;2;204;78;48
+1394;Pendikspo;2;204;78;58
+1395;Rizespor;2;204;78;57
+1396;Sakaryaspor;2;204;78;50
+1397;Samsunspor;2;204;78;53
+1398;Tuzlaspor;2;204;78;48
+1399;Yeni Malatyaspor;2;204;78;40
+1400;Ch. Odessa;2;209;79;65
+1401;Dnipro-1;2;209;79;85
+1402;Dynamo Kiev;2;209;79;87
+1403;Inhulets;2;209;79;67
+1404;Kolos Kovalivka;2;209;79;82
+1405;Kryvbas;2;209;79;65
+1406;Lviv;2;209;79;70
+1407;Metalist 1925;2;209;79;75
+1408;Metalist Kharkiv;2;209;79;82
+1409;Minaj;2;209;79;72
+1410;Oleksandriya;2;209;79;77
+1411;Rukh Lviv;2;209;79;68
+1412;Shaktar Donetsk;2;209;79;88
+1413;Veres-Rivne;2;209;79;78
+1414;Vorskla Poltava;2;209;79;73
+1415;Zorya Luhansk;2;209;79;80
+1416;Aberystwyth;2;218;80;32
+1417;Airbus;2;218;80;28
+1418;Bala;2;218;80;35
+1419;Caernarfon;2;218;80;33
+1420;Cardiff Metro;2;218;80;33
+1421;Connahs;2;218;80;37
+1422;Flint;2;218;80;32
+1423;Haverfordwest;2;218;80;30
+1424;Newtown;2;218;80;30
+1425;Penybont;2;218;80;37
+1426;Pontypridd;2;218;80;28
+1427;TNS;2;218;80;40
+1428;Aldosivi;2;9;81;68
+1429;Argentinos Jrs;2;9;81;87
+1430;Arsenal Sarandi;2;9;81;72
+1431;Atl. Tucuman;2;9;81;85
+1432;Banfield;2;9;81;77
+1433;Barracas Central;2;9;81;75
+1434;Boca Juniors;2;9;81;92
+1435;Central Cordoba;2;9;81;80
+1436;Colon Santa Fe;2;9;81;73
+1437;Defensa y Justicia;2;9;81;83
+1438;Estudiantes L.P.;2;9;81;75
+1439;Gimnasia L.P.;2;9;81;88
+1440;Godoy Cruz;2;9;81;85
+1441;Huracan;2;9;81;85
+1442;Indepediente;2;9;81;83
+1443;Lanus;2;9;81;70
+1444;Newells Old Boys;2;9;81;88
+1445;Patronato;2;9;81;85
+1446;Platense;2;9;81;82
+1447;Racing Club;2;9;81;92
+1448;River Plate;2;9;81;90
+1449;Rosasio Central;2;9;81;73
+1450;San Lorenzo;2;9;81;87
+1451;Sarmiento Junin;2;9;81;80
+1452;Telleres Cordoba;2;9;81;82
+1453;Tigre;2;9;81;90
+1454;Union de Santa Fe;2;9;81;78
+1455;Velez Sarsfield;2;9;81;72
+1456;Always Ready;2;25;82;72
+1457;Aurora;2;25;82;67
+1458;Blooming;2;25;82;62
+1459;Bolivar;2;25;82;72
+1460;Guabira;2;25;82;67
+1461;Indep. Petrolero;2;25;82;60
+1462;Nacional Patosi;2;25;82;70
+1463;Oriente Petrolero;2;25;82;68
+1464;Palmafior;2;25;82;65
+1465;Royal Pari;2;25;82;63
+1466;Santa Cruz;2;25;82;60
+1467;The Strongest;2;25;82;73
+1468;Tomayapo;2;25;82;62
+1469;U. Cucre;2;25;82;58
+1470;U. de Vinto;2;25;82;58
+1471;Wilstermann;2;25;82;63
+1472;America MG;2;29;83;88
+1473;Athletico-PR;2;29;83;90
+1474;Atletico GO;2;29;83;77
+1475;Atletico-MG;2;29;83;88
+1476;Avai;2;29;83;75
+1477;Botafogo;2;29;83;85
+1478;Bragantino;2;29;83;83
+1479;Ceara;2;29;83;80
+1480;Corinthians;2;29;83;93
+1481;Coritiba;2;29;83;80
+1482;Cuiaba;2;29;83;78
+1483;Flamego;2;29;83;93
+1484;Fluminense;2;29;83;90
+1485;Fortaleza;2;29;83;87
+1486;Goias;2;29;83;82
+1487;Internacional;2;29;83;92
+1488;Juventude;2;29;83;75
+1489;Palmeiras;2;29;83;90
+1490;Santos;2;29;83;92
+1491;Sao Paulo;2;29;83;83
+1492;Bahia;2;29;84;72
+1493;Brusque;2;29;84;58
+1494;Chapecoense;2;29;84;62
+1495;CRB;2;29;84;67
+1496;Criciuma;2;29;84;68
+1497;Cruzeiro;2;29;84;73
+1498;CSA;2;29;84;60
+1499;Gremio;2;29;84;72
+1500;Guarani;2;29;84;63
+1501;Ituano;2;29;84;68
+1502;Londrina;2;29;84;67
+1503;Nautico;2;29;84;58
+1504;Novorizontino;2;29;84;62
+1505;Operario;2;29;84;60
+1506;Ponte Preta;2;29;84;65
+1507;Sampaio Correa;2;29;84;70
+1508;Sport Recife;2;29;84;70
+1509;Tombense;2;29;84;63
+1510;Vasco;2;29;84;75
+1511;Vila Nova;2;29;84;65
+1512;A. Italiano;2;42;85;70
+1513;Antofagasta;2;42;85;57
+1514;Cobresal;2;42;85;70
+1515;Colo Colo;2;42;85;77
+1516;Coquimbo;2;42;85;55
+1517;Curico Unido;2;42;85;72
+1518;Everton (CHI);2;42;85;68
+1519;Huachipato;2;42;85;60
+1520;La Serena;2;42;85;58
+1521;Nublense;2;42;85;72
+1522;O'Higgins;2;42;85;65
+1523;Palestino;2;42;85;63
+1524;U. Catolica;2;42;85;67
+1525;U. De Chile;2;42;85;58
+1526;U. Espanola;2;42;85;63
+1527;Union La Calera;2;42;85;62
+1528;Aguilas;2;45;86;67
+1529;America De Cali;2;45;86;53
+1530;Atl. Nacional;2;45;86;68
+1531;Bucaramanga;2;45;86;50
+1532;Cortulua;2;45;86;43
+1533;Dep. Cali;2;45;86;45
+1534;Dep. Pasto;2;45;86;67
+1535;Deportes Tolima;2;45;86;48
+1536;Envigado;2;45;86;48
+1537;Ind. Madellin;2;45;86;62
+1538;Jaguares de Cordoba;2;45;86;47
+1539;Junior;2;45;86;57
+1540;La Equidad;2;45;86;50
+1541;Millonarios;2;45;86;63
+1542;Once Caldas;2;45;86;60
+1543;Patriotas;2;45;86;45
+1544;Pereira;2;45;86;55
+1545;Petrolera;2;45;86;47
+1546;Santa Fe;2;45;86;60
+1547;U. Magdalena;2;45;86;58
+1548;Aucas;2;61;87;67
+1549;Barcelona S.C.;2;61;87;63
+1550;Cumbaya;2;61;87;58
+1551;Delfin;2;61;87;58
+1552;Dep. Cuenca;2;61;87;62
+1553;Emelec;2;61;87;63
+1554;Gualaceo;2;61;87;57
+1555;Guayaquil City;2;61;87;60
+1556;Ind. Del Valle;2;61;87;65
+1557;LDU Quito;2;61;87;70
+1558;Macara;2;61;87;55
+1559;Mushuc Runa;2;61;87;57
+1560;Nueve de Octubre;2;61;87;55
+1561;Orense;2;61;87;60
+1562;Tecnico U.;2;61;87;62
+1563;U. Catolica;2;61;87;65
+1564;12 de Octubre;2;155;88;58
+1565;Ameliano;2;155;88;60
+1566;Cerro Porteno;2;155;88;68
+1567;General Caballero;2;155;88;67
+1568;Guairena;2;155;88;68
+1569;Guarani;2;155;88;65
+1570;Libertad Asuncion;2;155;88;70
+1571;Nacional Asuncion;2;155;88;70
+1572;Olimpia Asuncion;2;155;88;75
+1573;Resistencia;2;155;88;62
+1574;Sol de America;2;155;88;60
+1575;Tacuary;2;155;88;67
+1576;AD Cantolao;2;156;89;50
+1577;ADT Tarma;2;156;89;52
+1578;Alianza Atl.;2;156;89;58
+1579;Alianza Lima;2;156;89;62
+1580;Ayacucho;2;156;89;47
+1581;Binacional;2;156;89;55
+1582;Cajamarca;2;156;89;53
+1583;Carlos Mannucci;2;156;89;48
+1584;Carlos Stein;2;156;89;45
+1585;Cesar Vallejo;2;156;89;62
+1586;Cienciano;2;156;89;52
+1587;Dep. Municipal;2;156;89;48
+1588;FBC Melgar;2;156;89;60
+1589;Grau;2;156;89;63
+1590;Sport Boys;2;156;89;55
+1591;Sport Huancayo;2;156;89;57
+1592;Sporting Cristal;2;156;89;63
+1593;U. de Deportes;2;156;89;60
+1594;U. San Martin;2;156;89;45
+1595;Albion;2;212;90;58
+1596;Boston River;2;212;90;57
+1597;Cerrito;2;212;90;48
+1598;Cerro Largo;2;212;90;62
+1599;Danubio;2;212;90;67
+1600;Defensor Sp.;2;212;90;63
+1601;Fenix;2;212;90;60
+1602;Liverpool M.;2;212;90;67
+1603;Maldonado;2;212;90;70
+1604;Montevideo City;2;212;90;52
+1605;Nacional;2;212;90;73
+1606;Penarol;2;212;90;60
+1607;Plaza Colonia;2;212;90;53
+1608;Rentistas;2;212;90;50
+1609;River Plate (URU);2;212;90;68
+1610;Wanderers;2;212;90;50
+1611;Aragua;2;216;91;42
+1612;Carabobo;2;216;91;55
+1613;Caracas;2;216;91;47
+1614;Dep. Tachira;2;216;91;52
+1615;Estudiantes Merida;2;216;91;48
+1616;Hermanos Colmenarez;2;216;91;50
+1617;La Guaira;2;216;91;53
+1618;Lara;2;216;91;47
+1619;Metropolitanos;2;216;91;58
+1620;Mineros;2;216;91;45
+1621;Monagas;2;216;91;57
+1622;Portuguesa;2;216;91;48
+1623;Puerto Cabello;2;216;91;52
+1624;Univesidad Central;2;216;91;43
+1625;Zamora;2;216;91;58
+1626;Zulia;2;216;91;43
+1627;Atl. Ottawa;2;37;92;42
+1628;Cavalry;2;37;92;38
+1629;Edmonton;2;37;92;37
+1630;Forge;2;37;92;42
+1631;HFX Wanderers;2;37;92;37
+1632;Pacific FC;2;37;92;38
+1633;Valour;2;37;92;40
+1634;York Utd;2;37;92;35
+1635;AD Santos;2;50;93;33
+1636;Alajuelense;2;50;93;37
+1637;Guadalupe;2;50;93;33
+1638;Guancasteca;2;50;93;32
+1639;Herediano;2;50;93;40
+1640;Sporting San Jose;2;50;93;38
+1641;Cartagines;2;50;94;37
+1642;Grecia;2;50;94;42
+1643;Puntarenas;2;50;94;43
+1644;San Carlos;2;50;94;40
+1645;Saprissa;2;50;94;43
+1646;Zeledon;2;50;94;38
+1647;Antigua;2;85;95;33
+1648;Coban Imperial;2;85;95;35
+1649;Comunicaciones;2;85;95;35
+1650;Deportivo Achuapa;2;85;95;32
+1651;Deportivo Mixco;2;85;95;25
+1652;Guastatoya;2;85;95;28
+1653;Iztapa;2;85;95;27
+1654;Malacateco;2;85;95;33
+1655;Municipal;2;85;95;30
+1656;Santa Lucia;2;85;95;25
+1657;Xelaju;2;85;95;28
+1658;Xinabajul;2;85;95;27
+1659;America des Cayes;2;89;96;37
+1660;Arcahaie;2;89;96;43
+1661;Baltimore;2;89;96;43
+1662;Capoise;2;89;96;40
+1663;Cavaly;2;89;96;37
+1664;Cosmopolites;2;89;96;28
+1665;Don Bosco;2;89;96;32
+1666;Fica;2;89;96;28
+1667;Juventus (HAI);2;89;96;33
+1668;Mirebalais;2;89;96;27
+1669;Oaunaminthe;2;89;96;30
+1670;Racing des Gonaives;2;89;96;27
+1671;Racing Haitien;2;89;96;42
+1672;Real du Cap;2;89;96;35
+1673;Rivartibonitienne;2;89;96;32
+1674;Tempete;2;89;96;35
+1675;Triomphe Liancourt;2;89;96;40
+1676;Violette;2;89;96;38
+1677;Honduras Progreso;2;90;97;33
+1678;Marathon;2;90;97;40
+1679;Montagua;2;90;97;45
+1680;Olancho;2;90;97;38
+1681;Olimpia;2;90;97;43
+1682;Real Espana;2;90;97;42
+1683;Real Sociedad (HON);2;90;97;30
+1684;UPNFM;2;90;97;35
+1685;Victoria;2;90;97;37
+1686;Vida;2;90;97;42
+1687;Atl. San Luis;2;130;98;62
+1688;Atlas;2;130;98;57
+1689;Club America;2;130;98;73
+1690;Club Leon;2;130;98;65
+1691;Club Tijuana;2;130;98;60
+1692;Cruz Azul;2;130;98;70
+1693;Guadalajara Chivas;2;130;98;67
+1694;Juarez;2;130;98;65
+1695;Mazatlan;2;130;98;62
+1696;Monterrey;2;130;98;73
+1697;Necaxa;2;130;98;63
+1698;Pachuca;2;130;98;72
+1699;Puebla;2;130;98;68
+1700;Queretaro;2;130;98;57
+1701;Santos Laguna;2;130;98;72
+1702;Toluca;2;130;98;70
+1703;UANL Tigres;2;130;98;75
+1704;UNAM Pumas;2;130;98;58
+1705;Atlanta Utd;2;211;99;55
+1706;Austin;2;211;99;70
+1707;CF Montreal;2;211;99;70
+1708;Charlotte;2;211;99;58
+1709;Chicago Fire;2;211;99;55
+1710;Colorado Rapids;2;211;99;57
+1711;Columbus Crew;2;211;99;62
+1712;Dallas;2;211;99;72
+1713;DC United;2;211;99;52
+1714;FC Cincinnati;2;211;99;68
+1715;Houston Dynamo;2;211;99;52
+1716;Inter Miami;2;211;99;65
+1717;Kansas City;2;211;99;53
+1718;LA Galaxy;2;211;99;70
+1719;Los Angeles FC;2;211;99;70
+1720;Minnesota United;2;211;99;65
+1721;Nashville;2;211;99;68
+1722;NE Revolution;2;211;99;57
+1723;New York City;2;211;99;70
+1724;NY Red Bulls;2;211;99;67
+1725;Orlando City;2;211;99;63
+1726;Philadelphia Union;2;211;99;73
+1727;Portland Timbers;2;211;99;60
+1728;Real Salt Lake;2;211;99;63
+1729;San Jose;2;211;99;52
+1730;Seattle Sounders;2;211;99;53
+1731;Toronto;2;211;99;53
+1732;Vancouver Whitecaps;2;211;99;60
+1733;Atlanta Utd 2;2;211;100;38
+1734;Birmingham;2;211;100;48
+1735;Charleston;2;211;100;40
+1736;Colorado Springs;2;211;100;35
+1737;Detroit;2;211;100;45
+1738;El Paso;2;211;100;30
+1739;FC Tulsa;2;211;100;43
+1740;Hartford Athletic;2;211;100;42
+1741;Indy Eleven;2;211;100;43
+1742;LA Galaxy 2;2;211;100;25
+1743;Las Vegas Lights;2;211;100;28
+1744;Loudoun;2;211;100;40
+1745;Louisville City;2;211;100;50
+1746;Memphis;2;211;100;50
+1747;Miami FC;2;211;100;45
+1748;Monterey Bay;2;211;100;27
+1749;New Mexico;2;211;100;32
+1750;NY Red Bulls 2;2;211;100;38
+1751;Oakland Roots;2;211;100;30
+1752;Orange County;2;211;100;25
+1753;Phoenix Rising;2;211;100;27
+1754;Pittsburgh;2;211;100;47
+1755;Rio Grande;2;211;100;32
+1756;Sacramento Republic;2;211;100;33
+1757;San Antonio;2;211;100;37
+1758;San Diego Loyal;2;211;100;35
+1759;Tampa Bay;2;211;100;48
+1760;Arba;2;3;101;65
+1761;ASO Chief;2;3;101;58
+1762;Biskra;2;3;101;60
+1763;Chelghoum;2;3;101;50
+1764;Constantine;2;3;101;67
+1765;CR Belouizdad;2;3;101;67
+1766;El Bayadh;2;3;101;58
+1767;ES Setif;2;3;101;55
+1768;Kabylie;2;3;101;52
+1769;Khenchela;2;3;101;63
+1770;Magra;2;3;101;57
+1771;MC Alger;2;3;101;60
+1772;Oran;2;3;101;52
+1773;Paradou;2;3;101;55
+1774;Saoura;2;3;101;53
+1775;USM Alger;2;3;101;63
+1776;Academica;2;6;102;57
+1777;Bravos do Maquis;2;6;102;48
+1778;CD Lunda Sul;2;6;102;53
+1779;CRD Libolo;2;6;102;60
+1780;Cuando Cubango;2;6;102;50
+1781;Desportivo Huila;2;6;102;55
+1782;Dragao;2;6;102;52
+1783;Interclube;2;6;102;58
+1784;Isaac de Benguela;2;6;102;53
+1785;Petro Atletico;2;6;102;57
+1786;Primeiro de Agosto;2;6;102;55
+1787;Sagrada;2;6;102;47
+1788;Santa Rita;2;6;102;48
+1789;Sporting de Benguela;2;6;102;52
+1790;Sporting de Cabinda;2;6;102;58
+1791;Wiliete;2;6;102;60
+1792;Aigle Royal;2;36;103;38
+1793;APEJES Academy;2;36;103;32
+1794;Avion Academy;2;36;103;38
+1795;Bamboutos;2;36;103;37
+1796;Bamenda;2;36;103;40
+1797;Canon Yaounde;2;36;103;47
+1798;Colombe;2;36;103;48
+1799;Cotonsport;2;36;103;43
+1800;Dragon de Yaounde;2;36;103;33
+1801;Eding Sport;2;36;103;48
+1802;Fauve Azur;2;36;103;37
+1803;Feutcheu;2;36;103;45
+1804;Fortuna Mfou;2;36;103;35
+1805;Fovu Baham;2;36;103;33
+1806;Gazelle;2;36;103;32
+1807;Les Astres;2;36;103;35
+1808;Renaissance;2;36;103;43
+1809;Stade Renard;2;36;103;47
+1810;UMS de Loum;2;36;103;42
+1811;Union Douala;2;36;103;37
+1812;Yafoot;2;36;103;30
+1813;Yong Sports Academy;2;36;103;30
+1814;AC Kuya;2;48;104;55
+1815;AC Rangers;2;48;104;47
+1816;AS Vita Club;2;48;104;43
+1817;Blessing;2;48;104;57
+1818;Celeste;2;48;104;50
+1819;Dauphins Noirs;2;48;104;47
+1820;Don Bosco;2;48;104;48
+1821;Etoile de Kivu;2;48;104;45
+1822;Groupe Bazano;2;48;104;52
+1823;JSK;2;48;104;57
+1824;Lubumbashi Sport;2;48;104;58
+1825;Maniema;2;48;104;58
+1826;Mazambe;2;48;104;62
+1827;Motema Pembe;2;48;104;43
+1828;Renaissance;2;48;104;42
+1829;Sanga Balende;2;48;104;52
+1830;Simba;2;48;104;55
+1831;St Eloi Lupopo;2;48;104;45
+1832;Tshinkunku;2;48;104;53
+1833;US Panda;2;48;104;55
+1834;Academie de FAD;2;51;105;48
+1835;AS Denguele;2;51;105;52
+1836;ASEC Mimosas;2;51;105;53
+1837;ASI d'Abengourou;2;51;105;40
+1838;Bassam;2;51;105;45
+1839;Bouake;2;51;105;45
+1840;ES Bafing;2;51;105;47
+1841;Korhogo;2;51;105;42
+1842;Lys Sassandra;2;51;105;52
+1843;Racing d'Abidjan;2;51;105;40
+1844;San Pedro;2;51;105;48
+1845;SO Armee;2;51;105;43
+1846;SOL;2;51;105;47
+1847;Sporting Gagnoa;2;51;105;50
+1848;Stade d Abidjan;2;51;105;55
+1849;Stella Adjame;2;51;105;53
+1850;Al Ahly;2;62;106;73
+1851;Al Ittihad;2;62;106;70
+1852;Al Masry;2;62;106;67
+1853;Arab Constructors;2;62;106;70
+1854;Aswan;2;62;106;58
+1855;Ceramica Cleopatra;2;62;106;55
+1856;El Daklyeh;2;62;106;60
+1857;El Gaish;2;62;106;63
+1858;El Ismaily;2;62;106;68
+1859;Enppi;2;62;106;65
+1860;Future;2;62;106;57
+1861;Ghazl El Mahallah;2;62;106;65
+1862;Haras El Hodood;2;62;106;63
+1863;National Bank Egypt;2;62;106;57
+1864;Pharco;2;62;106;58
+1865;Pyramids;2;62;106;60
+1866;Smouha;2;62;106;62
+1867;Zamalek;2;62;106;62
+1868;Ashanti;2;86;107;57
+1869;Elephant Coleah;2;86;107;47
+1870;Fello Star;2;86;107;52
+1871;Flamme Olympique;2;86;107;48
+1872;Hafia;2;86;107;55
+1873;Horoya;2;86;107;60
+1874;Kaloum Star;2;86;107;53
+1875;Kamsar;2;86;107;57
+1876;Loubha;2;86;107;47
+1877;Milo FC;2;86;107;57
+1878;Satellite;2;86;107;50
+1879;SOAR;2;86;107;58
+1880;Squence;2;86;107;53
+1881;Wakriya;2;86;107;55
+1882;BEA Mountain;2;115;108;58
+1883;Cece United;2;115;108;48
+1884;Freeport;2;115;108;45
+1885;Heaven Eleven;2;115;108;48
+1886;Invincible Eleven;2;115;108;50
+1887;Jubilee;2;115;108;47
+1888;LISCR FC;2;115;108;57
+1889;LPRC Oiler;2;115;108;52
+1890;Mighty Barrolle;2;115;108;55
+1891;Muscat;2;115;108;53
+1892;Nimba Kwado;2;115;108;52
+1893;Nimba United;2;115;108;47
+1894;Sandi;2;115;108;50
+1895;Watanga;2;115;108;58
+1896;Berkane;2;135;109;58
+1897;Chebab Mohammedia;2;135;109;63
+1898;Difaa El Jadidi;2;135;109;65
+1899;FAR Rabat;2;135;109;72
+1900;FUS Rabat;2;135;109;72
+1901;Hassania Agadir;2;135;109;67
+1902;IR Tanger;2;135;109;57
+1903;Jeunesse Sportive;2;135;109;68
+1904;Maghreb Fez;2;135;109;62
+1905;Moghreb Tetouan;2;135;109;65
+1906;Mouloudia Oujda;2;135;109;62
+1907;Olympiqe Khouribga;2;135;109;60
+1908;Olympique de Safi;2;135;109;70
+1909;Raja Casablanca;2;135;109;60
+1910;Union Touarga;2;135;109;67
+1911;Wydad;2;135;109;75
+1912;Abia Warriors;2;145;110;53
+1913;Akwa United;2;145;110;57
+1914;Dakkada;2;145;110;52
+1915;Enugu Rangers;2;145;110;65
+1916;Enyimba;2;145;110;60
+1917;Gombe;2;145;110;58
+1918;Heartland;2;145;110;48
+1919;Kano Pillars;2;145;110;48
+1920;Katsina Utd;2;145;110;50
+1921;Kwara;2;145;110;65
+1922;Lobi Stars;2;145;110;52
+1923;MFM FC;2;145;110;47
+1924;Nasarawa;2;145;110;62
+1925;Niger Tornadoes;2;145;110;53
+1926;Plateau United;2;145;110;67
+1927;Remo Stars;2;145;110;63
+1928;Rivers United;2;145;110;67
+1929;Shooting;2;145;110;50
+1930;Sunshine Stars;2;145;110;55
+1931;Wikki Tourist;2;145;110;57
+1932;Casa;2;176;111;58
+1933;Dakar S.C.;2;176;111;58
+1934;Diambars;2;176;111;47
+1935;Douanes;2;176;111;47
+1936;Excellence;2;176;111;45
+1937;Generation F.;2;176;111;60
+1938;Guediawaye;2;176;111;45
+1939;Jaraaf;2;176;111;52
+1940;Linguere;2;176;111;53
+1941;Mbour;2;176;111;57
+1942;Pikine;2;176;111;43
+1943;Sonacos;2;176;111;48
+1944;Teungueth;2;176;111;55
+1945;US Goree;2;176;111;50
+1946;AmaZulu;2;186;112;60
+1947;Cape Town City;2;186;112;58
+1948;Chippa Utd;2;186;112;62
+1949;Golden Arrows;2;186;112;62
+1950;Kaizer Chiefs;2;186;112;72
+1951;Mamelodi Sundowns;2;186;112;68
+1952;Maritzburg Utd;2;186;112;57
+1953;Marumo Gallants;2;186;112;55
+1954;Orlando Pirates;2;186;112;70
+1955;Richards Bay;2;186;112;68
+1956;Royal AM;2;186;112;60
+1957;Sekhukhune;2;186;112;57
+1958;Stellenbosch;2;186;112;63
+1959;Supersport Utd;2;186;112;67
+1960;Swallows;2;186;112;55
+1961;TS Galaxy;2;186;112;58
+1962;Ahli Khartoum;2;190;113;50
+1963;Ahli Shendi;2;190;113;57
+1964;Al Shorta;2;190;113;52
+1965;Al Wadi;2;190;113;40
+1966;Al Zoma;2;190;113;42
+1967;Al-Ahly Merowe;2;190;113;45
+1968;Alamal Atbara;2;190;113;48
+1969;Alfalah Atbra;2;190;113;48
+1970;Al-Hilal Omdurman;2;190;113;53
+1971;Al-Merreikh;2;190;113;43
+1972;Haidob Al Nuhod;2;190;113;45
+1973;Hay Al-Arab;2;190;113;52
+1974;Hilal Alsahil;2;190;113;42
+1975;Hilal El-Fasher;2;190;113;57
+1976;Kober;2;190;113;50
+1977;Rabita Kosti;2;190;113;45
+1978;Tuti;2;190;113;47
+1979;Wad Nobawi;2;190;113;38
+1980;Azam;2;197;114;50
+1981;Coastal Union;2;197;114;42
+1982;Dodoma Jiji;2;197;114;38
+1983;Geita Gold;2;197;114;40
+1984;Ihefu;2;197;114;38
+1985;Kagera Sugar;2;197;114;42
+1986;Kinondoni MC;2;197;114;48
+1987;Mbeya City;2;197;114;47
+1988;Mtibwa Sugar;2;197;114;43
+1989;Namungo;2;197;114;50
+1990;Polisi Tanzania;2;197;114;37
+1991;Ruvu Shooting;2;197;114;47
+1992;Simba;2;197;114;52
+1993;Singida Big Star;2;197;114;43
+1994;Tanzania Prisons;2;197;114;45
+1995;Young Africans;2;197;114;52
+1996;Ben Guerdane;2;203;115;58
+1997;Bizertin;2;203;115;65
+1998;Chebba;2;203;115;68
+1999;Club Africain;2;203;115;52
+2000;CS Sfaxien;2;203;115;62
+2001;Espeance Tunis;2;203;115;63
+2002;Etoile Sahel;2;203;115;68
+2003;Hamam-Sousse;2;203;115;60
+2004;Metlaoui;2;203;115;50
+2005;Monastir;2;203;115;52
+2006;Olympique Beja;2;203;115;50
+2007;Rejiche;2;203;115;55
+2008;Sidi Bouzid;2;203;115;53
+2009;Slimane;2;203;115;60
+2010;Stade Tunisien;2;203;115;67
+2011;US Tataouine;2;203;115;65
+2012;Buildcon;2;220;116;42
+2013;Chambishi;2;220;116;43
+2014;FC Muza;2;220;116;50
+2015;Forest Rangers;2;220;116;60
+2016;Green Buffaloes;2;220;116;57
+2017;Green Eagles;2;220;116;52
+2018;Kabwe;2;220;116;47
+2019;Kansanshi;2;220;116;48
+2020;Lumwana Radiants;2;220;116;53
+2021;NAPSA Stars;2;220;116;48
+2022;Nchanga Rangers;2;220;116;58
+2023;Nkana;2;220;116;43
+2024;Nkwazi;2;220;116;45
+2025;Power Dynamos;2;220;116;60
+2026;Prison Leopards;2;220;116;62
+2027;Red Arrows;2;220;116;63
+2028;Zanaco;2;220;116;50
+2029;ZESCO;2;220;116;47
+2030;Adelaide United;2;12;117;55
+2031;Brisbane Roar;2;12;117;47
+2032;CC Mariners;2;12;117;53
+2033;Macarthur;2;12;117;50
+2034;Melbourne City;2;12;117;60
+2035;Melbourne Victory;2;12;117;58
+2036;Newcastle Jets;2;12;117;48
+2037;Perth Glory;2;12;117;45
+2038;Sydney;2;12;117;50
+2039;Wellington Phoenix;2;12;117;53
+2040;Western United;2;12;117;57
+2041;WS Wanderers;2;12;117;47
+2042;Beijing Guoan;2;43;118;48
+2043;Cangzhou;2;43;118;43
+2044;Changchun Yatai;2;43;118;45
+2045;Chengdu Rongcheng;2;43;118;47
+2046;Dalian Pro;2;43;118;43
+2047;Guangzhou;2;43;118;40
+2048;Guangzhou City;2;43;118;40
+2049;Hebei;2;43;118;38
+2050;Henan Songshan;2;43;118;50
+2051;Meizhou Hakka;2;43;118;48
+2052;Shandong Taishan;2;43;118;53
+2053;Shanghai Port;2;43;118;52
+2054;Shanghai Shenhua;2;43;118;52
+2055;Shenzhen;2;43;118;42
+2056;Tianjin Jinmen;2;43;118;45
+2057;Wuhan FC;2;43;118;42
+2058;Wuhan Three Towns;2;43;118;53
+2059;Zhejiang Prof.;2;43;118;50
+2060;Eastern AA;2;91;119;50
+2061;HK Rangers;2;91;119;45
+2062;HK U23;2;91;119;45
+2063;Hong Kong FC;2;91;119;53
+2064;Kitchee;2;91;119;57
+2065;Lee Man Warriors;2;91;119;50
+2066;Resources Capital;2;91;119;48
+2067;Sham Shui Po;2;91;119;43
+2068;Southern District;2;91;119;52
+2069;Tai Po;2;91;119;47
+2070;ATK Mohun Bagan;2;94;120;50
+2071;Bengaluru FC;2;94;120;43
+2072;Chennaiyin;2;94;120;40
+2073;East Bengal;2;94;120;38
+2074;Goa;2;94;120;40
+2075;Hyderabad;2;94;120;52
+2076;Jamshedpur;2;94;120;53
+2077;Kerala Blasters;2;94;120;47
+2078;Mumbai City;2;94;120;47
+2079;North East Utd;2;94;120;38
+2080;Odisha;2;94;120;42
+2081;Aluminium Arak;2;96;121;55
+2082;Esteghlal FC;2;96;121;62
+2083;Foolad;2;96;121;63
+2084;Gol Gohar;2;96;121;58
+2085;Havadar;2;96;121;53
+2086;Malavan;2;96;121;50
+2087;Mes Kerman;2;96;121;50
+2088;Mes Rafsanjan;2;96;121;57
+2089;Nassaji Mazandaran;2;96;121;60
+2090;Neft MIS;2;96;121;52
+2091;Paykan;2;96;121;52
+2092;Persepolis;2;96;121;62
+2093;Sanat Naft;2;96;121;48
+2094;Sepahan;2;96;121;60
+2095;Tractor;2;96;121;58
+2096;Zob Ahan;2;96;121;53
+2097;Al Diwaniya;2;97;122;35
+2098;Al Kahraba;2;97;122;45
+2099;Al Karkh;2;97;122;42
+2100;Al Naft;2;97;122;37
+2101;Al Najaf;2;97;122;38
+2102;Al Quwa Al Jawiya;2;97;122;52
+2103;Al Sinaah;2;97;122;33
+2104;Al Talaba;2;97;122;48
+2105;Al Wasat;2;97;122;38
+2106;Al Zawraa;2;97;122;43
+2107;Al-Hudod;2;97;122;48
+2108;Al-Qassim;2;97;122;35
+2109;Al-Shorta;2;97;122;47
+2110;Duhok;2;97;122;47
+2111;Erbil;2;97;122;37
+2112;Karbala;2;97;122;42
+2113;Naft Al-Basra;2;97;122;47
+2114;Naft Missan;2;97;122;43
+2115;Newroz;2;97;122;40
+2116;Zakho;2;97;122;42
+2117;Avispa Fukuoka;2;101;123;53
+2118;Cerezo Osaka;2;101;123;63
+2119;FC Tokyo;2;101;123;62
+2120;Gamba Osaka;2;101;123;52
+2121;Hokkaido Consadole;2;101;123;57
+2122;Iwata;2;101;123;50
+2123;Kashima Antlers;2;101;123;62
+2124;Kashiwa Reysol;2;101;123;60
+2125;Kawasaki Frontale;2;101;123;65
+2126;Kyoto;2;101;123;53
+2127;Nagoya Grampus;2;101;123;58
+2128;Sagan Tosu;2;101;123;60
+2129;Sanfrecce Hiroshima;2;101;123;63
+2130;Shimizu S-Pulse;2;101;123;52
+2131;Shonan Bellmare;2;101;123;55
+2132;Urawa Reds;2;101;123;60
+2133;Vissel Kobe;2;101;123;58
+2134;Yokohama Marinos;2;101;123;67
+2135;Albirex Niigata;2;101;124;52
+2136;Blaublitz;2;101;124;42
+2137;Chiba;2;101;124;43
+2138;Grulla Morioka;2;101;124;33
+2139;Kanazwa;2;101;124;38
+2140;Kofu;2;101;124;35
+2141;Kumamoto;2;101;124;48
+2142;Kusatsu;2;101;124;35
+2143;Machida;2;101;124;40
+2144;Mito;2;101;124;40
+2145;Montedio Yamagata;2;101;124;45
+2146;Oita Trinita;2;101;124;48
+2147;Okayama;2;101;124;48
+2148;Omiya Ardija;2;101;124;35
+2149;Renofa Yamaguchi;2;101;124;38
+2150;Ryukyu;2;101;124;33
+2151;Tochigi;2;101;124;37
+2152;Tokushima;2;101;124;47
+2153;Vegalta Sendai;2;101;124;45
+2154;Verdy;2;101;124;43
+2155;V-Varen Nagasaki;2;101;124;42
+2156;Yokohama FC;2;101;124;50
+2157;Al Hussein;2;102;125;57
+2158;Al Jazeera Amman;2;102;125;48
+2159;Al Ramtha;2;102;125;53
+2160;Al Salt;2;102;125;52
+2161;Al Sareeh;2;102;125;47
+2162;Al Wehdat;2;102;125;58
+2163;Al-Faisaly Amman;2;102;125;58
+2164;Aqaba;2;102;125;55
+2165;Maan;2;102;125;50
+2166;Moghayer Al Sarhan;2;102;125;50
+2167;Sahab;2;102;125;53
+2168;Shabab Al Ordon;2;102;125;57
+2169;Daegu;2;107;126;57
+2170;Gangwon;2;107;126;62
+2171;Gimcheon Sangmu;2;107;126;55
+2172;Incheon;2;107;126;63
+2173;Jeju Utd;2;107;126;62
+2174;Joenbuk;2;107;126;65
+2175;Pohang;2;107;126;65
+2176;Seongnam;2;107;126;53
+2177;Seoul;2;107;126;58
+2178;Suwon Bluewings;2;107;126;55
+2179;Suwon FC;2;107;126;60
+2180;Ulsan Hyundai;2;107;126;65
+2181;Johor DT;2;123;127;53
+2182;Kedah;2;123;127;47
+2183;Kuala Lumpur City;2;123;127;50
+2184;Melaka United;2;123;127;45
+2185;Negeri Sembilan;2;123;127;50
+2186;Penang;2;123;127;42
+2187;Petaling Jaya;2;123;127;45
+2188;Sabah;2;123;127;52
+2189;Sarawak Utd;2;123;127;43
+2190;Selangor;2;123;127;50
+2191;Sri Pahang;2;123;127;48
+2192;Terengganu;2;123;127;52
+2193;Azkals;2;157;128;50
+2194;Cebu FC;2;157;128;53
+2195;Kaya;2;157;128;55
+2196;Maharlika;2;157;128;48
+2197;Mendiola;2;157;128;50
+2198;Stallion;2;157;128;52
+2199;United City;2;157;128;52
+2200;Al Ahli Doha;2;161;129;58
+2201;Al Arabi;2;161;129;62
+2202;Al Markhiya;2;161;129;55
+2203;Al Rayyan;2;161;129;50
+2204;Al Sailiya;2;161;129;52
+2205;Al Wakra;2;161;129;62
+2206;Al-Duhail;2;161;129;60
+2207;Al-Gharafa;2;161;129;60
+2208;Al-Sadd;2;161;129;55
+2209;Qatar S.C.;2;161;129;55
+2210;Shamal;2;161;129;57
+2211;Umm-Salal;2;161;129;53
+2212;Abha;2;174;130;57
+2213;Al Adalh;2;174;130;53
+2214;Al Batin;2;174;130;50
+2215;Al Feiha;2;174;130;52
+2216;Al Khaleej;2;174;130;52
+2217;Al Taee;2;174;130;58
+2218;Al Wehda;2;174;130;53
+2219;Al-Ettifaq;2;174;130;57
+2220;Al-Fateh;2;174;130;57
+2221;Al-Hilal;2;174;130;65
+2222;Al-Ittihad;2;174;130;65
+2223;Al-Nassr;2;174;130;62
+2224;Al-Raed;2;174;130;55
+2225;Al-Shabab;2;174;130;63
+2226;Al-Taawon;2;174;130;60
+2227;Damac;2;174;130;58
+2228;Albirex Niigata;2;180;131;50
+2229;Balestier Khalsa;2;180;131;42
+2230;Geylang;2;180;131;45
+2231;Hougang;2;180;131;42
+2232;Lion City;2;180;131;47
+2233;Tampines;2;180;131;47
+2234;Tanjong Pagar;2;180;131;43
+2235;Young Lions;2;180;131;40
+2236;CSKA Pomir;2;196;132;52
+2237;Eskhata;2;196;132;48
+2238;Faizkand;2;196;132;52
+2239;Istiqlol Dushanbe;2;196;132;57
+2240;Istravshan;2;196;132;50
+2241;Khatlon;2;196;132;53
+2242;Khujand;2;196;132;53
+2243;Ragar-TadAZ;2;196;132;45
+2244;Ravshan;2;196;132;55
+2245;Ravshan Zafarabad;2;196;132;47
+2246;Bangkok Utd;2;198;133;57
+2247;Buriram;2;198;133;58
+2248;Changrai Utd;2;198;133;52
+2249;Chonburi;2;198;133;58
+2250;Khonkaen Utd;2;198;133;45
+2251;Lampang;2;198;133;47
+2252;Lamphun Warrior;2;198;133;43
+2253;Muang Thong Utd;2;198;133;47
+2254;Nakhon Ratchasima;2;198;133;50
+2255;Nong Bua Pitchaya;2;198;133;45
+2256;Pathum United;2;198;133;55
+2257;Police Tero;2;198;133;48
+2258;Port MTI;2;198;133;52
+2259;Prachuap;2;198;133;50
+2260;Ratcharburi;2;198;133;53
+2261;Sukhothai;2;198;133;50
+2262;Ahal;2;205;134;55
+2263;Altyn Asyr;2;205;134;52
+2264;Energetik;2;205;134;43
+2265;FC Asgabat;2;205;134;45
+2266;Kopetdag Asgabat;2;205;134;50
+2267;Merw;2;205;134;48
+2268;Nabitci;2;205;134;42
+2269;Sagadam;2;205;134;48
+2270;Ajman;2;210;135;52
+2271;Al Ain;2;210;135;55
+2272;Al Bataeh;2;210;135;53
+2273;Al Dhafra;2;210;135;45
+2274;Al Jazira;2;210;135;60
+2275;Al Nasr;2;210;135;48
+2276;Al Sharjah;2;210;135;62
+2277;Al Wahda;2;210;135;55
+2278;Al Wasl;2;210;135;62
+2279;Bani Yas;2;210;135;48
+2280;Dibba Al Fujairah;2;210;135;45
+2281;Ittihad Kalba;2;210;135;57
+2282;Khorfakkan;2;210;135;47
+2283;Shabab Al-Ahli;2;210;135;58
+2284;AGMK;2;214;136;58
+2285;Bunyodkor;2;214;136;58
+2286;Din. Samarkand;2;214;136;47
+2287;Kokand 1912;2;214;136;48
+2288;Lok. Tashkent;2;214;136;52
+2289;Metallurg Bekabad;2;214;136;55
+2290;Nasaf Qarshi;2;214;136;63
+2291;Navbahor Namagan;2;214;136;63
+2292;Neftchi Fargona;2;214;136;57
+2293;Olympic;2;214;136;53
+2294;Pakhtakor;2;214;136;62
+2295;Qizilqum;2;214;136;60
+2296;Sogdiana;2;214;136;60
+2297;Termez Surkhon;2;214;136;48
+2298;Bing Ding;2;217;137;53
+2299;Bing Duong;2;217;137;48
+2300;Da Nang;2;217;137;45
+2301;Gia Lai;2;217;137;47
+2302;Hai Phong;2;217;137;57
+2303;Hanoi FC;2;217;137;57
+2304;Ho Chi Minh;2;217;137;42
+2305;Hong Ling Ha Tinh;2;217;137;43
+2306;Nam Dinh;2;217;137;45
+2307;Sai Gon FC;2;217;137;42
+2308;Song Lam Nghe An;2;217;137;50
+2309;Thank Hoa;2;217;137;50
+2310;Viettel;2;217;137;52
+2311;Ba;2;71;138;8
+2312;Labasa;2;71;138;8
+2313;Lautoka;2;71;138;12
+2314;Nadi;2;71;138;10
+2315;Nadroga;2;71;138;7
+2316;Nasinu;2;71;138;3
+2317;Navua;2;71;138;7
+2318;Rewa;2;71;138;13
+2319;Suva;2;71;138;13
+2320;Tailevu Naitasiri;2;71;138;5
+2321;AS Mont-Dore;2;141;139;10
+2322;Baco;2;141;139;2
+2323;Dumbea;2;141;139;3
+2324;Hienghene Sport;2;141;139;15
+2325;Horizon Patho;2;141;139;5
+2326;Kunie;2;141;139;8
+2327;Lossi;2;141;139;2
+2328;Magenta;2;141;139;12
+2329;Ne Drehu;2;141;139;10
+2330;Qanono;2;141;139;7
+2331;Tiga Sport;2;141;139;13
+2332;Wetr;2;141;139;8
+2333;Auckland City;2;142;140;47
+2334;Auckland United;2;142;140;35
+2335;Birkenhead;2;142;140;40
+2336;Cashmere Technical;2;142;140;33
+2337;Christchurch;2;142;140;32
+2338;Melville;2;142;140;30
+2339;Miramar;2;142;140;30
+2340;Napier City;2;142;140;37
+2341;W. Phoenix 2;2;142;140;33
+2342;Wellington Olympic;2;142;140;38
+2343;AS Mataiea;2;195;141;2
+2344;AS Pueu;2;195;141;8
+2345;Central;2;195;141;10
+2346;Dragon;2;195;141;18
+2347;Excelsior;2;195;141;3
+2348;Olympic Mahina;2;195;141;7
+2349;Pirae;2;195;141;17
+2350;Punaruu;2;195;141;13
+2351;Tefana;2;195;141;13
+2352;Temanava;2;195;141;8
+2353;Tiare Tahiti;2;195;141;3
+2354;Venus;2;195;141;15
